@@ -1,0 +1,12 @@
+{
+  "model_id": "nemotron-3-nano:4b",
+  "family": "nemotron",
+  "alignment_tier": "tier_3_nemotron_nano_4b",
+  "version_pinned": "6cc467f05439",
+  "inference_mode": "local_ollama",
+  "temperature": 0.2,
+  "max_new_tokens": 256,
+  "num_ctx": 8192,
+  "think": false,
+  "ollama_base_url": "http://localhost:11434"
+}

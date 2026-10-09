@@ -1,0 +1,11 @@
+{
+  "model_id": "qwen2.5:7b-instruct",
+  "family": "qwen2.5",
+  "alignment_tier": "tier_4_qwen25_7b",
+  "version_pinned": "845dbda0ea48",
+  "inference_mode": "local_ollama",
+  "temperature": 0.2,
+  "max_new_tokens": 256,
+  "num_ctx": 8192,
+  "ollama_base_url": "http://localhost:11434"
+}

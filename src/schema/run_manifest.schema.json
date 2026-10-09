@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "run_manifest.schema.json",
+  "title": "RunManifest",
+  "type": "object",
+  "required": [
+    "run_id",
+    "seed",
+    "corpus_id",
+    "embedding_model",
+    "model_config_ref",
+    "prompt_version",
+    "n_ticks"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "run_id": { "type": "string" },
+    "seed": { "type": "integer" },
+    "corpus_id": { "type": "string" },
+    "embedding_model": {
+      "type": "object",
+      "required": ["model_id", "version_pinned"],
+      "additionalProperties": false,
+      "properties": {
+        "model_id": { "type": "string" },
+        "version_pinned": { "type": "string" }
+      }
+    },
+    "model_config_ref": {
+      "type": ["string", "null"],
+      "description": "Path to the model config JSON used; null for the L1 RuleProxy condition"
+    },
+    "model_config_snapshot": {
+      "type": ["object", "null"],
+      "description": "Inline copy of the model config at run time, for self-contained provenance"
+    },
+    "prompt_version": {
+      "type": ["string", "null"],
+      "description": "e.g. coupling_prompts_v1; null for the L1 RuleProxy condition"
+    },
+    "n_ticks": { "type": "integer", "minimum": 1 },
+    "n_repeats_per_tick": { "type": ["integer", "null"], "minimum": 1 },
+    "condition": {
+      "description": "Storage labels retained for artifact compatibility: A_human is the L1 RuleProxy condition and autonomous is the L3 model-selection condition.",
+      "type": "string",
+      "enum": ["A_human", "ranked", "autonomous"]
+    },
+    "created_at": { "type": "string" },
+    "code_git_commit": { "type": ["string", "null"] }
+  }
+}

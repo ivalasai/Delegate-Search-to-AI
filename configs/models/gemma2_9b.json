@@ -1,0 +1,11 @@
+{
+  "model_id": "gemma2:9b",
+  "family": "gemma2",
+  "alignment_tier": "tier_5_gemma2_9b",
+  "version_pinned": "ff02c3702f32",
+  "inference_mode": "local_ollama",
+  "temperature": 0.2,
+  "max_new_tokens": 256,
+  "num_ctx": 8192,
+  "ollama_base_url": "http://localhost:11434"
+}

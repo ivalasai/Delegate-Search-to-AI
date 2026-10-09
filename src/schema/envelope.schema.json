@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "envelope.schema.json",
+  "title": "SimulationEnvelope",
+  "type": "object",
+  "required": [
+    "envelope_id",
+    "gcm_mode",
+    "temporal_frame",
+    "anarchy_conditions",
+    "structures",
+    "stream_arrival_processes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "envelope_id": { "type": "string" },
+    "gcm_mode": { "const": "organized_anarchy" },
+    "temporal_frame": {
+      "type": "object",
+      "required": ["tick_unit", "horizon_ticks", "epoch_origin"],
+      "additionalProperties": false,
+      "properties": {
+        "tick_unit": { "const": "discrete" },
+        "horizon_ticks": { "type": "integer", "minimum": 1 },
+        "epoch_origin": { "type": "string" }
+      }
+    },
+    "anarchy_conditions": {
+      "type": "object",
+      "required": ["unclear_preferences", "unclear_technology", "fluid_participation"],
+      "additionalProperties": false,
+      "properties": {
+        "unclear_preferences": { "type": "boolean" },
+        "unclear_technology": { "type": "boolean" },
+        "fluid_participation": { "type": "boolean" }
+      }
+    },
+    "structures": {
+      "type": "object",
+      "required": ["access_structure", "decision_structure"],
+      "additionalProperties": false,
+      "properties": {
+        "access_structure": {
+          "type": "object",
+          "required": ["type"],
+          "additionalProperties": false,
+          "properties": {
+            "type": { "type": "string", "enum": ["open", "hierarchical", "matrix", "partitioned"] }
+          }
+        },
+        "decision_structure": {
+          "type": "object",
+          "required": ["type", "resolution_rule"],
+          "additionalProperties": false,
+          "properties": {
+            "type": { "type": "string", "enum": ["resolution", "timed_garbage_can", "hierarchical", "democratic"] },
+            "resolution_rule": {
+              "type": "string",
+              "enum": ["first_coupling", "energy_threshold", "random_dump", "none"]
+            }
+          }
+        }
+      }
+    },
+    "stream_arrival_processes": {
+      "type": "object",
+      "required": ["problems", "solutions", "participants"],
+      "additionalProperties": false,
+      "properties": {
+        "problems": { "$ref": "#/$defs/arrival_process" },
+        "solutions": { "$ref": "#/$defs/arrival_process" },
+        "participants": { "$ref": "#/$defs/arrival_process" }
+      }
+    }
+  },
+  "$defs": {
+    "arrival_process": {
+      "type": "object",
+      "required": ["process", "rate", "variance_param"],
+      "additionalProperties": false,
+      "properties": {
+        "process": { "type": "string" },
+        "rate": { "type": "number" },
+        "variance_param": { "type": "number" }
+      }
+    }
+  }
+}

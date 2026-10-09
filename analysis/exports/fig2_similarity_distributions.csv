@@ -1,0 +1,1711 @@
+run,layer,architecture,model,seed,cosine_similarity
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.606023
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.682914
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.614315
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.614149
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.616086
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.63876
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.618937
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.660776
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.646313
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.61239
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.650736
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.621164
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.652697
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.610479
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,0.617827
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.604845
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.612475
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.665928
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.6011
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.635902
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.647424
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.636739
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.602094
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.613535
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.61927
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.636112
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,0.602185
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.664449
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.608019
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.65606
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.609296
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.611486
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.632349
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.623783
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.605048
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,0.630846
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.614841
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.682914
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.672424
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.606462
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.600909
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.629016
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.602185
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.601717
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.614149
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.659778
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.602143
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.637157
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.617067
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.616117
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.682629
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.61239
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.678725
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.621164
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.652037
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.718569
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.600751
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.634253
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.64305
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,0.654268
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.600909
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.614841
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.682914
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.672424
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.629016
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.602185
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.610696
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.61239
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.612475
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.637157
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.622107
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.603351
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.630196
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.678725
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.621164
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.718569
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.64305
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,0.600751
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.600909
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.614841
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.682914
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.629016
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.674806
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.672424
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.625573
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.610696
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.646313
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.605776
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.61239
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.602499
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.616117
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.614197
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.621164
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.660069
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,0.600751
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.600909
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.614841
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.672424
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.606462
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.629016
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.621782
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.682914
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.602185
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.610696
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.612475
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.640853
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.646313
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.602499
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.654268
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.603351
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.619206
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.61239
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.682629
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.678725
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.718569
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.617827
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.621164
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.652037
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.708078
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,0.64305
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.614841
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.682914
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.672424
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.606462
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.600909
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.629016
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.621782
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.674806
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.602185
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.659778
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.620733
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.605776
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.601717
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.612475
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.652037
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.617067
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.602499
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.622107
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.612254
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.61239
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.616681
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.613535
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.619206
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.612386
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.678725
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.621164
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.718569
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.600751
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.708078
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,0.64305
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.618347
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.660069
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.623946
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.616117
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.630846
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.606031
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.637971
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.683784
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.61829
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.718569
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.682629
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.659778
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.643288
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.61443
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.635902
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.621164
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.656485
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.728486
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.607432
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.603038
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.616651
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,0.619147
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.618347
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.660069
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.624707
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.623946
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.616117
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.61829
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.612475
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.630846
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.606031
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.617021
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.643288
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.64303
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.682629
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.633173
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.609296
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.618937
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.628515
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.600737
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.635902
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.621164
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.600191
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,0.708078
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.618347
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.623946
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.630846
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.67485
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.606031
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.618752
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.637971
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.629544
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.624707
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.617021
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.609296
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.643288
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.63876
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.636112
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.660776
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.664449
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.621164
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,0.605969
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.618347
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.660069
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.618752
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.61829
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.630846
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.609041
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.606031
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.623847
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.664157
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.61649
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.617021
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.632311
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.708078
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.629544
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.630794
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.629016
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.603038
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.64303
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.615173
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.672424
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.678725
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.621164
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.636112
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.605969
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,0.728486
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.618347
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.660069
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.623946
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.61829
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.630846
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.606031
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.614308
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.637971
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.616117
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.624707
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.697008
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.633173
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.617021
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.609296
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.64303
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.601717
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.682629
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.61443
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.600737
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.616086
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.629016
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.621164
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.633639
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.627169
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,0.728486
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.718569
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.616052
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.664449
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.632077
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.65606
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.612237
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.606462
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.689708
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.659778
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.603356
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.601238
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.617827
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.697008
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.603038
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.61344
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.713378
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.623847
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.61443
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.661213
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.619147
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,0.605776
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.718569
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.616052
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.664449
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.641841
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.600909
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.604912
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.632077
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.61829
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.681625
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.617021
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.689708
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.617827
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.668159
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.602499
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.713378
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.619147
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.61443
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,0.661213
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.718569
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.616052
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.664449
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.600909
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.681625
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.65606
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.617021
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.689708
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.617827
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.668159
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.616651
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.603356
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.615798
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.603038
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.609296
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.602499
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.61443
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.630846
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,0.661213
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.718569
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.616052
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.664449
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.641841
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.600909
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.604912
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.61829
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.632405
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.659778
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.612237
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.617827
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.614841
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.656485
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.603356
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.621502
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.621164
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.652037
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.602499
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.713378
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.623847
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.61649
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.630846
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.614149
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,0.619147
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.718569
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.616052
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.629016
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.641841
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.621242
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.627551
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.61829
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.681625
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.624707
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.617021
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.689708
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.617827
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.668159
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.656485
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.643288
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.603356
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.646313
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.613535
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.609296
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.602499
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.713378
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.654344
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.603038
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.61443
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.630846
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,0.602185
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.598607
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.600909
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.614841
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.495928
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.586782
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.425119
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.38513
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.450601
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.502943
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.556185
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.559362
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.420701
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.448888
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.397171
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.606462
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.519915
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.454008
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.601717
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.592559
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.518722
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.497903
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.549536
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.53312
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.544246
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.445887
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.545656
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.36821
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.493524
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.489038
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.419409
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.41157
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.612475
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.598448
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.556672
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.490499
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.602499
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.552924
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.45609
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.599759
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.539153
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.437563
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.570357
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.569462
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.448342
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.659778
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.437159
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.606031
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.565125
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.443296
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.545203
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.551183
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.614705
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.507655
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.460223
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.57051
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.431753
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.522479
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.525789
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.548647
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.708078
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.576729
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.552426
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.507517
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.412711
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.446414
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.486579
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.459468
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.490699
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.586425
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.624707
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.599806
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.488967
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.477554
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.457738
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.662013
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.491206
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.459157
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.476056
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.589915
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.456183
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.490335
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.560135
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.413524
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.557961
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.454354
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.46095
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.517283
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.63552
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,0.467598
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.544462
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.600909
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.532756
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.586782
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.682914
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.467378
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.538808
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.543755
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.629016
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.394979
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.426824
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.499746
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.469701
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.625573
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.556185
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.600165
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.41129
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.545091
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.592559
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.482995
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.53312
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.632349
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.545656
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.532128
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.523223
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.605776
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.596346
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.612475
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.597788
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.441864
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.618347
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.441488
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.470373
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.622107
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.467137
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.619206
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.471207
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.640853
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.456436
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.551437
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.531348
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.554519
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.562284
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.443296
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.526981
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.459099
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.459268
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.556334
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.43377
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.500895
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.594925
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.708078
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.467521
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.580216
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.439807
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.454538
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.591473
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.445523
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.486579
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.515426
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.51069
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.607432
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.473352
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.556579
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.479418
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.557914
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.513901
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.415177
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.559571
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.416227
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.530176
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.543204
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.435258
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.439998
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.61829
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.487712
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.464038
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.508967
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.395331
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.575334
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.574186
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.56595
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.604168
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.467373
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.48349
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.45543
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.459447
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.456714
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.352304
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,0.380917
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.544462
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.600909
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.428144
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.514127
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.682914
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.38513
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.536894
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.609041
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.542411
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.46467
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.559362
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.48938
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.443254
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.499746
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.519015
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.474503
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.578384
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.592559
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.610696
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.526298
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.531316
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.417142
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.570691
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.516269
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.39967
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.502688
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.489038
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.468251
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.375719
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.497936
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.398675
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.537985
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.566131
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.435676
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.602499
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.422844
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.551232
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.539153
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.534114
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.623847
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.469738
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.459225
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.508467
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.526271
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.438945
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.47608
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.464888
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.558472
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.47045
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.505158
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.411317
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.526981
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.438237
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.480133
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.434698
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.459642
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.582282
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.592702
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.504031
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.598434
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.522589
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.708078
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.608929
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.581733
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.422964
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.519958
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.592213
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.459384
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.632077
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.45141
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.543581
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.509858
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.462686
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.39318
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.564204
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.496112
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.488085
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.507061
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.542618
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.682629
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.489622
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.429023
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.61443
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.474239
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.5473
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.48349
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.523043
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.469837
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.424997
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,0.432403
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.50893
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.600909
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.428144
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.614841
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.514127
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.682914
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.457765
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.438166
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.47084
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.606462
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.506934
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.485206
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.483245
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.455234
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.517573
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.476136
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.557043
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.481359
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.519015
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.558701
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.566684
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.523707
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.465724
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.43681
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.482706
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.472906
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.519602
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.368822
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.620733
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.50584
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.511138
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.393636
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.401339
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.522212
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.548146
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.640853
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.569833
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.379761
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.452246
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.441221
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.384486
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.539153
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.545428
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.505632
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.619147
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.513641
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.520533
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.359653
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.458854
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.514552
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.417602
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.464251
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.547577
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.455413
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.654268
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.449695
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.497389
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.520174
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.502648
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.469396
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.444858
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.459642
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.573934
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.468967
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.590042
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.536093
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.442372
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.61829
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.514701
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.512675
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.559571
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.458977
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.499974
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.445384
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.50179
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.649888
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.505158
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.4701
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.398447
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.587628
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.370959
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.482511
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.486356
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.52497
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.571461
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.487128
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.514675
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.508165
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.503646
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,0.438648
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.504611
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.560447
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.505399
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.505529
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.527514
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.466933
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.459356
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.548447
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.518034
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.629016
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.559362
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.6098
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.515873
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.517573
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.426824
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.481359
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.625573
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.532322
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.55817
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.465522
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.523707
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.592559
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.585757
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.555445
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.526899
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.570691
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.442147
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.489038
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.605776
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.437563
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.448342
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.612475
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.660406
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.602499
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.491961
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.470373
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.623946
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.622107
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.458816
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.569462
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.53627
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.530107
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.487295
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.458133
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.577705
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.474975
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.562284
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.565079
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.621164
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.487671
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.404177
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.585609
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.582282
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.600751
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.43377
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.565209
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.594925
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.456565
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.54816
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.526161
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.473352
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.504083
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.504159
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.505077
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.476056
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.551437
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.417602
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.429334
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.660069
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.430928
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.389215
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.453195
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.61829
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.531285
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.575693
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.519958
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.482246
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.430521
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.56595
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.412711
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.579176
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.489711
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.501192
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.41787
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.632077
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.543969
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.470549
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.370959
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,0.554556
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.618347
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.580815
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.565125
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.490335
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.406949
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.538609
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.484772
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.378957
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.623946
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.479394
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.499654
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.505632
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.616117
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.523625
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.361868
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.630846
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.609041
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.623691
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.430284
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.448846
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.546242
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.512414
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.465001
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.53627
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.425299
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.51001
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.547233
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.489098
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.413082
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.582996
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.581478
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.4815
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.481523
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.399465
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.575693
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.484852
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.718569
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.548523
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.517469
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.480583
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.595179
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.479957
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.463047
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.592079
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.643288
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.41166
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.460374
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.457585
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.606462
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.564349
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.489194
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.5274
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.561839
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.504083
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.429551
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.542468
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.576277
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.537573
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.422943
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.613975
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.461308
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.594567
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.559362
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.542668
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.585416
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.393636
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.532147
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.563231
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.587375
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.52578
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.616651
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.447832
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.48893
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.459896
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.510058
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.640853
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.554562
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.439643
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.554819
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.613535
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.436085
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.484292
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.514662
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.519958
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.512884
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.350746
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.412697
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.512958
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,0.424421
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.618347
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.580815
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.433753
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.539153
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.509774
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.634253
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.43009
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.538609
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.523117
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.623946
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.505632
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.565125
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.494784
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.630846
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.477785
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.540553
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.513427
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.512414
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.447429
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.534951
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.493953
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.471266
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.502688
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.573467
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.526981
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.581478
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.65606
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.585753
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.499242
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.543594
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.654268
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.489194
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.594925
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.579578
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.472783
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.490264
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.551303
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.41166
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.598434
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.489038
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.525718
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.376828
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.537657
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.504527
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.512301
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.629016
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.552426
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.517573
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.500352
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.605776
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.447119
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.614841
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.593763
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.469167
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.435254
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.552538
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.474887
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.455234
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.58714
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.40686
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.415903
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.533601
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.587357
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.571461
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.505228
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.516714
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.483706
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.41129
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.533411
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.488085
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.627551
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.510097
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.515697
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.529131
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.503179
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.652037
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.482315
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.478915
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.464811
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.485045
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.512884
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.529851
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.561355
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.522523
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.416326
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.428414
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.512958
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.446382
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.48195
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,0.369995
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.618347
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.580815
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.565125
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.484191
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.583668
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.538609
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.523117
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.383237
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.463901
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.505632
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.653799
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.630846
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.435777
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.563203
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.47608
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.45577
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.444641
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.477915
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.637971
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.512414
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.45917
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.596206
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.438647
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.522491
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.515649
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.589712
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.398983
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.48859
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.64303
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.484852
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.460223
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.654268
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.502737
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.48158
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.463617
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.65606
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.510492
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.447573
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.463823
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.571932
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.426129
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.512329
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.461008
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.598434
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.490713
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.600909
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.537657
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.514834
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.615004
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.487008
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.664449
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.452359
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.39113
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.518488
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.477248
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.576277
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.43053
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.572027
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.553757
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.471905
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.610479
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.478739
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.454668
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.585416
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.381041
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.515873
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.411127
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.56126
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.534338
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.551765
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.500533
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.569364
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.507321
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.515819
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.599149
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.612475
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.652037
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.517769
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.555445
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.614705
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.389013
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.458475
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.483465
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.524104
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.464811
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.44024
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.460499
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.48592
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.450398
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,0.512958
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.530704
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.552924
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.420434
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.455413
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.552254
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.402111
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.476543
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.484772
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.45772
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.468039
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.505632
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.476863
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.61829
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.452557
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.41445
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.52915
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.555092
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.606031
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.386452
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.623847
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.664157
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.512414
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.523178
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.425299
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.419416
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.51001
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.534539
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.61649
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.550967
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.506362
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.467436
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.512499
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.392487
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.575034
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.419045
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.632311
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.595179
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.532885
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.438442
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.479957
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.474894
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.579578
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.510492
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.526298
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.445666
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.426129
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.449064
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.443972
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.525412
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.519915
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.551381
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.632553
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.36922
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.627551
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.519943
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.6098
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.480737
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.471094
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.515758
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.472135
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.486224
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.444587
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.335177
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.445512
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.41223
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.449352
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.463684
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.56001
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.437889
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.454354
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.477248
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.553911
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.407697
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.518697
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.513686
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.562235
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.543542
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.441407
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.527046
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.44236
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.419444
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.529131
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.524115
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.420688
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.536544
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.492277
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.43751
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,0.557961
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.618347
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.580815
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.558472
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.490335
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.43009
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.552005
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.523117
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.472034
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.623946
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.439487
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.531067
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.463901
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.505632
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.592267
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.494784
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.389429
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.487445
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.555092
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.606031
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.513399
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.623847
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.572791
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.697008
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.512414
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.458167
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.431704
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.539318
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.609296
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.58714
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.547233
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.522491
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.467436
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.459531
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.526981
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.570541
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.510058
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.472956
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.508013
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.575693
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.718569
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.50035
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.569507
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.595179
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.594925
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.428144
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.517646
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.682629
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.519304
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.512737
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.463823
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.517573
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.660406
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.49611
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.41166
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.482609
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.47694
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.551151
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.525718
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.560447
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.587357
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.502595
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.462686
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.489711
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.542468
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.515788
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.507297
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.509298
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.516082
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.548647
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.534338
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.510989
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.533754
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.545643
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.533601
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.588938
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.527913
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.557687
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.632405
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.425443
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.591318
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.430034
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.526915
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.489427
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.449663
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.632432
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.437889
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.504256
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.392292
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,0.554819
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.52831
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.538756
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.509938
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.477688
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.470064
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.514868
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.469281
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.718569
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.498447
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.490653
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.351004
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.505933
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.471938
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.431486
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.471985
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.554808
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.527158
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.540641
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.56503
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.697008
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.610414
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.540167
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.552924
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.503047
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.564349
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.617827
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.506362
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.431305
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.581478
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.389407
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.487356
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.5473
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.563887
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.580101
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.521313
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.646313
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.486085
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.609041
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.511285
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.482325
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.521245
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.373585
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.433048
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.554578
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.609296
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.554318
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.423951
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.492933
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.598434
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.605776
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.612254
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.56451
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.56934
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.582144
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.503179
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.491103
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.630846
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.493067
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.422488
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.452375
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.447832
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.425032
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.465522
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.489323
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.445063
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.538624
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.500558
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.551183
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.476543
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.654268
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.553607
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.527983
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.525476
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.674806
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.442226
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.564168
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.61437
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.527967
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.49511
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.542615
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.504325
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.373821
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.531575
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.413524
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.540157
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.522207
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.55034
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.591253
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,0.490589
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.52831
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.353972
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.538756
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.47581
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.477688
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.402291
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.718569
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.504076
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.664449
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.549005
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.45012
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.487401
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.505146
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.559885
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.568362
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.56503
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.607432
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.518253
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.65606
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.672424
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.552924
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.396247
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.484542
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.617827
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.471542
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.549594
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.445523
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.58442
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.522851
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.518144
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.578504
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.502688
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.522479
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.489098
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.401525
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.614841
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.51948
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.511306
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.438166
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.580101
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.565285
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.604845
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.423951
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.654344
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.587375
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.486793
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.499974
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.59639
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.630846
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.416316
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.559441
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.551381
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.345609
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.501294
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.509052
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.563582
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.40551
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.517573
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.531067
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.602185
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.489194
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.472018
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.343574
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.421081
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.497326
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.56451
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.512414
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.561757
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.397357
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.543827
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.553607
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.510421
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.501371
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.518722
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.574186
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.61437
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.458133
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.596252
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.481085
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.542668
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.393636
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.449254
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.56001
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.516094
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.636739
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.486973
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.459157
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.561661
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.409611
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,0.530419
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.52831
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.353972
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.538756
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.432538
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.516955
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.542468
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.494258
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.718569
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.557383
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.514387
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.408099
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.411858
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.505146
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.547202
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.464518
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.559885
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.524895
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.518253
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.65606
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.39318
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.488721
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.515877
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.552924
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.503047
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.442876
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.427879
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.617827
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.539949
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.543678
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.421802
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.587804
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.492513
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.493005
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.497377
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.439063
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.502688
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.615798
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.38804
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.524104
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.458303
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.602499
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.423951
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.713378
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.450755
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.598434
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.544974
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.545025
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.563133
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.478826
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.513026
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.526537
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.449133
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.56126
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.450692
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.425032
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.575784
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.575334
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.454531
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.33681
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.560135
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.640853
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.508956
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.550098
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.531641
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.661213
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.41129
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.592559
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.576339
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.585416
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.426824
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.526899
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.459371
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.55817
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.552956
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.634253
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.532147
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.504325
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.392292
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.516082
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.416693
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.50824
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.434909
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.475215
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.442732
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.445063
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.480492
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.502256
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.53172
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.447474
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,0.411127
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.362414
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.46243
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.401588
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.477688
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.452251
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.472201
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.518724
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.718569
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.545091
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.549005
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.471505
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.472117
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.464087
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.541351
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.486255
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.491021
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.463901
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.552426
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.456462
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.503424
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.477946
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.46997
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.429729
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.458653
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.506362
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.614841
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.697008
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.47864
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.520533
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.440318
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.493005
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.542901
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.445523
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.502949
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.474281
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.425529
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.466863
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.462805
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.615798
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.471542
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.512366
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.652037
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.542815
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.604845
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.477779
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.489718
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.479196
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.528808
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.471751
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.579215
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.56934
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.512414
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.548327
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.576473
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.499974
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.59639
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.509455
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.555092
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.559441
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.561528
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.527158
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.373585
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.421292
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.480613
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.456352
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.410226
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.515928
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.41129
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.448808
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.475225
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.517573
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.587445
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.528646
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.435097
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.572034
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.574186
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.61437
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.446551
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.521148
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.502206
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.50072
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.477592
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.619793
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.465197
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.444601
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.348672
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.407327
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,0.355053
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.52831
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.353972
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.538756
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.481959
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.443886
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.542468
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.469281
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.718569
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.466933
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.553265
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.497617
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.505146
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.480073
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.477506
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.558531
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.597597
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.627551
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.61829
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.563887
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.455439
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.565285
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.552924
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.606462
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.493535
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.547921
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.617827
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.430284
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.526301
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.5473
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.524399
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.504159
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.471938
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.444582
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.484654
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.497377
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.609041
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.499546
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.522479
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.594925
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.467137
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.529903
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.462686
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.555928
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.597788
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.652037
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.566268
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.514017
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.604845
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.423951
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.471075
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.485019
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.56451
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.512414
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.545643
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.491103
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.630846
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.488694
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.449283
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.650736
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.562283
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.41129
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.654344
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.630794
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.487295
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.509548
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.654268
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.422488
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.486877
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.54583
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.395021
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.54247
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.48963
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.678725
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.518722
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.508467
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.587357
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.637971
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.420734
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.524026
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.479116
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.549714
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.530374
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.419852
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.473171
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.599806
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.528503
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.544674
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.471351
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,0.516611

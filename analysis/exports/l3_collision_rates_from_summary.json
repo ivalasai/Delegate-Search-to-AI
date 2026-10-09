@@ -1,0 +1,111 @@
+{
+  "status": "complete",
+  "metric_definition": "Collision rate is collision-driven skipped modal SELECT events divided by all modal SELECT attempts in each completed L3 cell.",
+  "rows": [
+    {
+      "model": "A",
+      "seed": 11,
+      "collisions": 151,
+      "modal_select_attempts": 240,
+      "collision_rate": 0.629167
+    },
+    {
+      "model": "B",
+      "seed": 11,
+      "collisions": 248,
+      "modal_select_attempts": 338,
+      "collision_rate": 0.733728
+    },
+    {
+      "model": "C",
+      "seed": 11,
+      "collisions": 152,
+      "modal_select_attempts": 242,
+      "collision_rate": 0.628099
+    },
+    {
+      "model": "D",
+      "seed": 11,
+      "collisions": 92,
+      "modal_select_attempts": 182,
+      "collision_rate": 0.505495
+    },
+    {
+      "model": "E",
+      "seed": 11,
+      "collisions": 159,
+      "modal_select_attempts": 248,
+      "collision_rate": 0.641129
+    },
+    {
+      "model": "A",
+      "seed": 22,
+      "collisions": 137,
+      "modal_select_attempts": 226,
+      "collision_rate": 0.606195
+    },
+    {
+      "model": "B",
+      "seed": 22,
+      "collisions": 249,
+      "modal_select_attempts": 339,
+      "collision_rate": 0.734513
+    },
+    {
+      "model": "C",
+      "seed": 22,
+      "collisions": 162,
+      "modal_select_attempts": 252,
+      "collision_rate": 0.642857
+    },
+    {
+      "model": "D",
+      "seed": 22,
+      "collisions": 101,
+      "modal_select_attempts": 189,
+      "collision_rate": 0.534392
+    },
+    {
+      "model": "E",
+      "seed": 22,
+      "collisions": 110,
+      "modal_select_attempts": 199,
+      "collision_rate": 0.552764
+    },
+    {
+      "model": "A",
+      "seed": 33,
+      "collisions": 137,
+      "modal_select_attempts": 226,
+      "collision_rate": 0.606195
+    },
+    {
+      "model": "B",
+      "seed": 33,
+      "collisions": 190,
+      "modal_select_attempts": 280,
+      "collision_rate": 0.678571
+    },
+    {
+      "model": "C",
+      "seed": 33,
+      "collisions": 173,
+      "modal_select_attempts": 263,
+      "collision_rate": 0.657795
+    },
+    {
+      "model": "D",
+      "seed": 33,
+      "collisions": 126,
+      "modal_select_attempts": 214,
+      "collision_rate": 0.588785
+    },
+    {
+      "model": "E",
+      "seed": 33,
+      "collisions": 154,
+      "modal_select_attempts": 243,
+      "collision_rate": 0.633745
+    }
+  ]
+}

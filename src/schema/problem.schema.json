@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "problem.schema.json",
+  "title": "Problem",
+  "type": "object",
+  "required": [
+    "problem_id",
+    "arrival_tick",
+    "label",
+    "problem_type",
+    "energy_demand",
+    "arousal_level",
+    "preference_ambiguity",
+    "lifecycle_state",
+    "fugitive_params",
+    "semantic_position",
+    "source_stream"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "problem_id": { "type": "string" },
+    "arrival_tick": { "type": "integer", "minimum": 1 },
+    "label": { "type": "string", "minLength": 1 },
+    "problem_type": {
+      "type": "string",
+      "enum": ["latent", "active", "chronic", "opportunity"]
+    },
+    "energy_demand": { "type": "number", "minimum": 0, "maximum": 1 },
+    "arousal_level": { "type": "number", "minimum": 0, "maximum": 1 },
+    "preference_ambiguity": { "type": "number", "minimum": 0, "maximum": 1 },
+    "lifecycle_state": {
+      "type": "string",
+      "enum": ["floating", "attached", "fleeing", "dormant"]
+    },
+    "fugitive_params": {
+      "type": "object",
+      "required": ["dwell_ticks", "flee_probability"],
+      "additionalProperties": false,
+      "properties": {
+        "dwell_ticks": { "type": "integer", "minimum": 1 },
+        "flee_probability": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "semantic_position": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 8,
+      "items": { "type": "number" }
+    },
+    "source_stream": {
+      "type": "string",
+      "enum": ["exogenous", "endogenous", "participant_generated"]
+    }
+  }
+}

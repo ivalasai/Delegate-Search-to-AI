@@ -1,0 +1,115 @@
+{
+  "status": "complete",
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "variability": [
+    {
+      "metric": "hhi",
+      "A_mean": 0.022006,
+      "A_sd": 0.001496,
+      "A_range": 0.003602,
+      "A_vals": [
+        0.02239583,
+        0.02361187,
+        0.0200094
+      ]
+    },
+    {
+      "metric": "entropy",
+      "A_mean": 5.97575,
+      "A_sd": 0.051722,
+      "A_range": 0.123485,
+      "A_vals": [
+        5.959394,
+        5.922185,
+        6.04567
+      ]
+    },
+    {
+      "metric": "collision_rate",
+      "A_mean": 0.613852,
+      "A_sd": 0.010829,
+      "A_range": 0.022972,
+      "A_vals": [
+        0.629167,
+        0.606195,
+        0.606195
+      ]
+    },
+    {
+      "metric": "collisions",
+      "A_mean": 141.666667,
+      "A_sd": 6.599663,
+      "A_range": 14,
+      "A_vals": [
+        151,
+        137,
+        137
+      ]
+    },
+    {
+      "metric": "gini",
+      "A_mean": 0.434448,
+      "A_sd": 0.01797,
+      "A_range": 0.041165,
+      "A_vals": [
+        0.443446,
+        0.450532,
+        0.409367
+      ]
+    },
+    {
+      "metric": "neff",
+      "A_mean": 45.659752,
+      "A_sd": 3.193522,
+      "A_range": 7.624942,
+      "A_vals": [
+        44.651163,
+        42.351575,
+        49.976517
+      ]
+    },
+    {
+      "metric": "n_couplings",
+      "A_mean": 89,
+      "A_sd": 0.0,
+      "A_range": 0,
+      "A_vals": [
+        89,
+        89,
+        89
+      ]
+    },
+    {
+      "metric": "below_0_60_pct",
+      "A_mean": 85.39,
+      "A_sd": 0.0,
+      "A_range": 0.0,
+      "A_vals": [
+        85.39,
+        85.39,
+        85.39
+      ]
+    },
+    {
+      "metric": "sim_mean",
+      "A_mean": 0.519832,
+      "A_sd": 0.002314,
+      "A_range": 0.005617,
+      "A_vals": [
+        0.519398,
+        0.517241,
+        0.522858
+      ]
+    }
+  ],
+  "top10_jaccard": {
+    "11_vs_22": 0.052632,
+    "11_vs_33": 0.111111,
+    "22_vs_33": 0.052632
+  },
+  "method": "Rows are read from the current coupling summary; L3 identity diagnostics use modal SELECT frequencies including collision skips, mapped to source solution IDs before cross-seed overlap. Top-10 ties retain the existing frequency export ordering; overlap is descriptive, not a null-adjusted test or evidence of path dependence."
+}

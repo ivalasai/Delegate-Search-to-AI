@@ -1,0 +1,2636 @@
+{
+  "A_throughput": [
+    {
+      "run": "L1 seed 11 (17 ticks)",
+      "layer": "L1",
+      "n_couplings": 15,
+      "pct_ceiling": 27.78
+    },
+    {
+      "run": "L1 seed 22 (17 ticks)",
+      "layer": "L1",
+      "n_couplings": 12,
+      "pct_ceiling": 22.22
+    },
+    {
+      "run": "L1 seed 33 (17 ticks)",
+      "layer": "L1",
+      "n_couplings": 9,
+      "pct_ceiling": 16.67
+    },
+    {
+      "run": "L2 Model A ranked seed 11 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 24,
+      "pct_ceiling": 44.44
+    },
+    {
+      "run": "L2 Model B ranked seed 11 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 18,
+      "pct_ceiling": 33.33
+    },
+    {
+      "run": "L2 Model C ranked seed 11 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 17,
+      "pct_ceiling": 31.48
+    },
+    {
+      "run": "L2 Model D ranked seed 11 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 25,
+      "pct_ceiling": 46.3
+    },
+    {
+      "run": "L2 Model E ranked seed 11 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 30,
+      "pct_ceiling": 55.56
+    },
+    {
+      "run": "L2 Model A ranked seed 22 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 22,
+      "pct_ceiling": 40.74
+    },
+    {
+      "run": "L2 Model B ranked seed 22 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 22,
+      "pct_ceiling": 40.74
+    },
+    {
+      "run": "L2 Model C ranked seed 22 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 18,
+      "pct_ceiling": 33.33
+    },
+    {
+      "run": "L2 Model D ranked seed 22 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 25,
+      "pct_ceiling": 46.3
+    },
+    {
+      "run": "L2 Model E ranked seed 22 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 25,
+      "pct_ceiling": 46.3
+    },
+    {
+      "run": "L2 Model A ranked seed 33 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 21,
+      "pct_ceiling": 38.89
+    },
+    {
+      "run": "L2 Model B ranked seed 33 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 18,
+      "pct_ceiling": 33.33
+    },
+    {
+      "run": "L2 Model C ranked seed 33 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 19,
+      "pct_ceiling": 35.19
+    },
+    {
+      "run": "L2 Model D ranked seed 33 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 24,
+      "pct_ceiling": 44.44
+    },
+    {
+      "run": "L2 Model E ranked seed 33 (17 ticks)",
+      "layer": "L2",
+      "n_couplings": 26,
+      "pct_ceiling": 48.15
+    }
+  ],
+  "L3_raw_throughput": [
+    {
+      "run": "L3 Model A model selection seed 11",
+      "layer": "L3",
+      "n_couplings": 89,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model B model selection seed 11",
+      "layer": "L3",
+      "n_couplings": 90,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model C model selection seed 11",
+      "layer": "L3",
+      "n_couplings": 90,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model D model selection seed 11",
+      "layer": "L3",
+      "n_couplings": 90,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model E model selection seed 11",
+      "layer": "L3",
+      "n_couplings": 89,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model A model selection seed 22",
+      "layer": "L3",
+      "n_couplings": 89,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model B model selection seed 22",
+      "layer": "L3",
+      "n_couplings": 90,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model C model selection seed 22",
+      "layer": "L3",
+      "n_couplings": 90,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model D model selection seed 22",
+      "layer": "L3",
+      "n_couplings": 88,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model E model selection seed 22",
+      "layer": "L3",
+      "n_couplings": 89,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model A model selection seed 33",
+      "layer": "L3",
+      "n_couplings": 89,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model B model selection seed 33",
+      "layer": "L3",
+      "n_couplings": 90,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model C model selection seed 33",
+      "layer": "L3",
+      "n_couplings": 90,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model D model selection seed 33",
+      "layer": "L3",
+      "n_couplings": 88,
+      "pct_ceiling": null
+    },
+    {
+      "run": "L3 Model E model selection seed 33",
+      "layer": "L3",
+      "n_couplings": 89,
+      "pct_ceiling": null
+    }
+  ],
+  "B_similarity_diagnostics": [
+    {
+      "run": "L1 seed 11 (17 ticks)",
+      "sim_min": 0.606023,
+      "sim_mean": 0.630904,
+      "sim_max": 0.682914
+    },
+    {
+      "run": "L1 seed 22 (17 ticks)",
+      "sim_min": 0.6011,
+      "sim_mean": 0.623134,
+      "sim_max": 0.665928
+    },
+    {
+      "run": "L1 seed 33 (17 ticks)",
+      "sim_min": 0.605048,
+      "sim_mean": 0.626815,
+      "sim_max": 0.664449
+    },
+    {
+      "run": "L2 Model A ranked seed 11 (17 ticks)",
+      "sim_min": 0.600751,
+      "sim_mean": 0.635613,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L2 Model B ranked seed 11 (17 ticks)",
+      "sim_min": 0.600751,
+      "sim_mean": 0.63294,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L2 Model C ranked seed 11 (17 ticks)",
+      "sim_min": 0.600751,
+      "sim_mean": 0.62885,
+      "sim_max": 0.682914
+    },
+    {
+      "run": "L2 Model D ranked seed 11 (17 ticks)",
+      "sim_min": 0.600909,
+      "sim_mean": 0.638187,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L2 Model E ranked seed 11 (17 ticks)",
+      "sim_min": 0.600751,
+      "sim_mean": 0.631877,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L2 Model A ranked seed 22 (17 ticks)",
+      "sim_min": 0.603038,
+      "sim_mean": 0.641018,
+      "sim_max": 0.728486
+    },
+    {
+      "run": "L2 Model B ranked seed 22 (17 ticks)",
+      "sim_min": 0.600191,
+      "sim_mean": 0.629672,
+      "sim_max": 0.708078
+    },
+    {
+      "run": "L2 Model C ranked seed 22 (17 ticks)",
+      "sim_min": 0.605969,
+      "sim_mean": 0.631213,
+      "sim_max": 0.67485
+    },
+    {
+      "run": "L2 Model D ranked seed 22 (17 ticks)",
+      "sim_min": 0.603038,
+      "sim_mean": 0.63667,
+      "sim_max": 0.728486
+    },
+    {
+      "run": "L2 Model E ranked seed 22 (17 ticks)",
+      "sim_min": 0.600737,
+      "sim_mean": 0.632209,
+      "sim_max": 0.728486
+    },
+    {
+      "run": "L2 Model A ranked seed 33 (17 ticks)",
+      "sim_min": 0.601238,
+      "sim_mean": 0.63948,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L2 Model B ranked seed 33 (17 ticks)",
+      "sim_min": 0.600909,
+      "sim_mean": 0.64345,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L2 Model C ranked seed 33 (17 ticks)",
+      "sim_min": 0.600909,
+      "sim_mean": 0.636185,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L2 Model D ranked seed 33 (17 ticks)",
+      "sim_min": 0.600909,
+      "sim_mean": 0.632375,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L2 Model E ranked seed 33 (17 ticks)",
+      "sim_min": 0.602185,
+      "sim_mean": 0.6371,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L3 Model A model selection seed 11",
+      "sim_min": 0.36821,
+      "sim_mean": 0.519398,
+      "sim_max": 0.708078
+    },
+    {
+      "run": "L3 Model B model selection seed 11",
+      "sim_min": 0.352304,
+      "sim_mean": 0.52124,
+      "sim_max": 0.708078
+    },
+    {
+      "run": "L3 Model C model selection seed 11",
+      "sim_min": 0.375719,
+      "sim_mean": 0.511852,
+      "sim_max": 0.708078
+    },
+    {
+      "run": "L3 Model D model selection seed 11",
+      "sim_min": 0.359653,
+      "sim_mean": 0.502822,
+      "sim_max": 0.682914
+    },
+    {
+      "run": "L3 Model E model selection seed 11",
+      "sim_min": 0.370959,
+      "sim_mean": 0.52244,
+      "sim_max": 0.660406
+    },
+    {
+      "run": "L3 Model A model selection seed 22",
+      "sim_min": 0.350746,
+      "sim_mean": 0.517241,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L3 Model B model selection seed 22",
+      "sim_min": 0.369995,
+      "sim_mean": 0.519976,
+      "sim_max": 0.65606
+    },
+    {
+      "run": "L3 Model C model selection seed 22",
+      "sim_min": 0.381041,
+      "sim_mean": 0.518179,
+      "sim_max": 0.664449
+    },
+    {
+      "run": "L3 Model D model selection seed 22",
+      "sim_min": 0.335177,
+      "sim_mean": 0.497994,
+      "sim_max": 0.664157
+    },
+    {
+      "run": "L3 Model E model selection seed 22",
+      "sim_min": 0.389429,
+      "sim_mean": 0.527949,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L3 Model A model selection seed 33",
+      "sim_min": 0.351004,
+      "sim_mean": 0.522858,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L3 Model B model selection seed 33",
+      "sim_min": 0.343574,
+      "sim_mean": 0.520168,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L3 Model C model selection seed 33",
+      "sim_min": 0.33681,
+      "sim_mean": 0.509409,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L3 Model D model selection seed 33",
+      "sim_min": 0.348672,
+      "sim_mean": 0.501402,
+      "sim_max": 0.718569
+    },
+    {
+      "run": "L3 Model E model selection seed 33",
+      "sim_min": 0.353972,
+      "sim_mean": 0.527699,
+      "sim_max": 0.718569
+    }
+  ],
+  "C_search_behavior_L3": [
+    {
+      "run": "L3 Model A model selection seed 11",
+      "n_modal_attempts": 240,
+      "unique_solutions_modal": 89,
+      "hhi": 0.02239583,
+      "entropy": 5.959394,
+      "neff": 44.651163,
+      "gini": 0.443446,
+      "collisions": 151,
+      "top_solutions": [
+        [
+          "S033",
+          14
+        ],
+        [
+          "S059",
+          13
+        ],
+        [
+          "S055",
+          13
+        ],
+        [
+          "S027",
+          9
+        ],
+        [
+          "S028",
+          8
+        ],
+        [
+          "S010",
+          7
+        ],
+        [
+          "S046",
+          7
+        ],
+        [
+          "S022",
+          6
+        ],
+        [
+          "S012",
+          6
+        ],
+        [
+          "S043",
+          6
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model B model selection seed 11",
+      "n_modal_attempts": 338,
+      "unique_solutions_modal": 90,
+      "hhi": 0.02515668,
+      "entropy": 5.89446,
+      "neff": 39.75087,
+      "gini": 0.474293,
+      "collisions": 248,
+      "top_solutions": [
+        [
+          "S043",
+          28
+        ],
+        [
+          "S001",
+          20
+        ],
+        [
+          "S028",
+          16
+        ],
+        [
+          "S049",
+          14
+        ],
+        [
+          "S037",
+          11
+        ],
+        [
+          "S003",
+          10
+        ],
+        [
+          "S007",
+          9
+        ],
+        [
+          "S024",
+          8
+        ],
+        [
+          "S033",
+          8
+        ],
+        [
+          "S055",
+          7
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model C model selection seed 11",
+      "n_modal_attempts": 242,
+      "unique_solutions_modal": 90,
+      "hhi": 0.02096851,
+      "entropy": 6.012265,
+      "neff": 47.690554,
+      "gini": 0.431313,
+      "collisions": 152,
+      "top_solutions": [
+        [
+          "S034",
+          13
+        ],
+        [
+          "S014",
+          11
+        ],
+        [
+          "S043",
+          11
+        ],
+        [
+          "S064",
+          11
+        ],
+        [
+          "S024",
+          8
+        ],
+        [
+          "S003",
+          7
+        ],
+        [
+          "S036",
+          7
+        ],
+        [
+          "S011",
+          6
+        ],
+        [
+          "S072",
+          6
+        ],
+        [
+          "S001",
+          6
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model D model selection seed 11",
+      "n_modal_attempts": 182,
+      "unique_solutions_modal": 90,
+      "hhi": 0.01714769,
+      "entropy": 6.164884,
+      "neff": 58.316901,
+      "gini": 0.356044,
+      "collisions": 92,
+      "top_solutions": [
+        [
+          "S016",
+          7
+        ],
+        [
+          "S024",
+          7
+        ],
+        [
+          "S038",
+          6
+        ],
+        [
+          "S058",
+          5
+        ],
+        [
+          "S027",
+          5
+        ],
+        [
+          "S056",
+          5
+        ],
+        [
+          "S049",
+          5
+        ],
+        [
+          "S012",
+          5
+        ],
+        [
+          "S026",
+          4
+        ],
+        [
+          "S004",
+          4
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model E model selection seed 11",
+      "n_modal_attempts": 248,
+      "unique_solutions_modal": 89,
+      "hhi": 0.02848595,
+      "entropy": 5.801389,
+      "neff": 35.105023,
+      "gini": 0.487314,
+      "collisions": 159,
+      "top_solutions": [
+        [
+          "S036",
+          25
+        ],
+        [
+          "S029",
+          13
+        ],
+        [
+          "S034",
+          10
+        ],
+        [
+          "S072",
+          10
+        ],
+        [
+          "S074",
+          9
+        ],
+        [
+          "S035",
+          8
+        ],
+        [
+          "S043",
+          8
+        ],
+        [
+          "S083",
+          8
+        ],
+        [
+          "S037",
+          7
+        ],
+        [
+          "S033",
+          7
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model A model selection seed 22",
+      "n_modal_attempts": 226,
+      "unique_solutions_modal": 89,
+      "hhi": 0.02361187,
+      "entropy": 5.922185,
+      "neff": 42.351575,
+      "gini": 0.450532,
+      "collisions": 137,
+      "top_solutions": [
+        [
+          "S046",
+          13
+        ],
+        [
+          "S049",
+          13
+        ],
+        [
+          "S033",
+          12
+        ],
+        [
+          "S013",
+          11
+        ],
+        [
+          "S011",
+          8
+        ],
+        [
+          "S081",
+          8
+        ],
+        [
+          "S051",
+          6
+        ],
+        [
+          "S066",
+          6
+        ],
+        [
+          "S006",
+          6
+        ],
+        [
+          "S085",
+          6
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model B model selection seed 22",
+      "n_modal_attempts": 339,
+      "unique_solutions_modal": 90,
+      "hhi": 0.02891552,
+      "entropy": 5.754845,
+      "neff": 34.583509,
+      "gini": 0.52373,
+      "collisions": 249,
+      "top_solutions": [
+        [
+          "S011",
+          32
+        ],
+        [
+          "S040",
+          19
+        ],
+        [
+          "S063",
+          18
+        ],
+        [
+          "S027",
+          14
+        ],
+        [
+          "S004",
+          12
+        ],
+        [
+          "S013",
+          12
+        ],
+        [
+          "S022",
+          11
+        ],
+        [
+          "S045",
+          11
+        ],
+        [
+          "S075",
+          11
+        ],
+        [
+          "S037",
+          9
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model C model selection seed 22",
+      "n_modal_attempts": 252,
+      "unique_solutions_modal": 90,
+      "hhi": 0.02191988,
+      "entropy": 5.978377,
+      "neff": 45.62069,
+      "gini": 0.445855,
+      "collisions": 162,
+      "top_solutions": [
+        [
+          "S035",
+          17
+        ],
+        [
+          "S006",
+          12
+        ],
+        [
+          "S029",
+          10
+        ],
+        [
+          "S015",
+          9
+        ],
+        [
+          "S037",
+          9
+        ],
+        [
+          "S033",
+          8
+        ],
+        [
+          "S011",
+          7
+        ],
+        [
+          "S072",
+          7
+        ],
+        [
+          "S043",
+          6
+        ],
+        [
+          "S023",
+          6
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model D model selection seed 22",
+      "n_modal_attempts": 189,
+      "unique_solutions_modal": 88,
+      "hhi": 0.01945634,
+      "entropy": 6.086496,
+      "neff": 51.397122,
+      "gini": 0.369589,
+      "collisions": 101,
+      "top_solutions": [
+        [
+          "S018",
+          10
+        ],
+        [
+          "S037",
+          10
+        ],
+        [
+          "S028",
+          7
+        ],
+        [
+          "S011",
+          7
+        ],
+        [
+          "S073",
+          7
+        ],
+        [
+          "S020",
+          5
+        ],
+        [
+          "S077",
+          5
+        ],
+        [
+          "S025",
+          4
+        ],
+        [
+          "S081",
+          4
+        ],
+        [
+          "S062",
+          4
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model E model selection seed 22",
+      "n_modal_attempts": 199,
+      "unique_solutions_modal": 89,
+      "hhi": 0.02022676,
+      "entropy": 6.098463,
+      "neff": 49.439451,
+      "gini": 0.366665,
+      "collisions": 110,
+      "top_solutions": [
+        [
+          "S052",
+          16
+        ],
+        [
+          "S040",
+          7
+        ],
+        [
+          "S088",
+          6
+        ],
+        [
+          "S062",
+          6
+        ],
+        [
+          "S090",
+          6
+        ],
+        [
+          "S061",
+          5
+        ],
+        [
+          "S042",
+          4
+        ],
+        [
+          "S046",
+          4
+        ],
+        [
+          "S022",
+          4
+        ],
+        [
+          "S049",
+          4
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model A model selection seed 33",
+      "n_modal_attempts": 226,
+      "unique_solutions_modal": 89,
+      "hhi": 0.0200094,
+      "entropy": 6.04567,
+      "neff": 49.976517,
+      "gini": 0.409367,
+      "collisions": 137,
+      "top_solutions": [
+        [
+          "S030",
+          12
+        ],
+        [
+          "S025",
+          10
+        ],
+        [
+          "S041",
+          10
+        ],
+        [
+          "S071",
+          8
+        ],
+        [
+          "S028",
+          8
+        ],
+        [
+          "S072",
+          7
+        ],
+        [
+          "S017",
+          7
+        ],
+        [
+          "S013",
+          6
+        ],
+        [
+          "S082",
+          5
+        ],
+        [
+          "S074",
+          5
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model B model selection seed 33",
+      "n_modal_attempts": 280,
+      "unique_solutions_modal": 90,
+      "hhi": 0.02885204,
+      "entropy": 5.818084,
+      "neff": 34.659593,
+      "gini": 0.487302,
+      "collisions": 190,
+      "top_solutions": [
+        [
+          "S030",
+          29
+        ],
+        [
+          "S012",
+          17
+        ],
+        [
+          "S014",
+          11
+        ],
+        [
+          "S017",
+          11
+        ],
+        [
+          "S023",
+          9
+        ],
+        [
+          "S008",
+          9
+        ],
+        [
+          "S018",
+          9
+        ],
+        [
+          "S058",
+          9
+        ],
+        [
+          "S013",
+          8
+        ],
+        [
+          "S039",
+          8
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model C model selection seed 33",
+      "n_modal_attempts": 263,
+      "unique_solutions_modal": 90,
+      "hhi": 0.02086195,
+      "entropy": 5.990301,
+      "neff": 47.934165,
+      "gini": 0.448204,
+      "collisions": 173,
+      "top_solutions": [
+        [
+          "S030",
+          13
+        ],
+        [
+          "S034",
+          12
+        ],
+        [
+          "S012",
+          11
+        ],
+        [
+          "S035",
+          10
+        ],
+        [
+          "S021",
+          9
+        ],
+        [
+          "S051",
+          9
+        ],
+        [
+          "S043",
+          8
+        ],
+        [
+          "S017",
+          8
+        ],
+        [
+          "S013",
+          7
+        ],
+        [
+          "S014",
+          7
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model D model selection seed 33",
+      "n_modal_attempts": 214,
+      "unique_solutions_modal": 88,
+      "hhi": 0.02157394,
+      "entropy": 6.006814,
+      "neff": 46.352227,
+      "gini": 0.410259,
+      "collisions": 126,
+      "top_solutions": [
+        [
+          "S035",
+          15
+        ],
+        [
+          "S023",
+          11
+        ],
+        [
+          "S024",
+          8
+        ],
+        [
+          "S017",
+          8
+        ],
+        [
+          "S087",
+          7
+        ],
+        [
+          "S079",
+          6
+        ],
+        [
+          "S067",
+          6
+        ],
+        [
+          "S068",
+          5
+        ],
+        [
+          "S026",
+          5
+        ],
+        [
+          "S054",
+          5
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    },
+    {
+      "run": "L3 Model E model selection seed 33",
+      "n_modal_attempts": 243,
+      "unique_solutions_modal": 89,
+      "hhi": 0.02067774,
+      "entropy": 6.015184,
+      "neff": 48.361179,
+      "gini": 0.426042,
+      "collisions": 154,
+      "top_solutions": [
+        [
+          "S030",
+          16
+        ],
+        [
+          "S019",
+          9
+        ],
+        [
+          "S017",
+          9
+        ],
+        [
+          "S008",
+          8
+        ],
+        [
+          "S027",
+          8
+        ],
+        [
+          "S079",
+          7
+        ],
+        [
+          "S014",
+          7
+        ],
+        [
+          "S035",
+          7
+        ],
+        [
+          "S013",
+          6
+        ],
+        [
+          "S012",
+          6
+        ]
+      ],
+      "support": "modal_SELECT_incl_collisions"
+    }
+  ],
+  "final_matching": [
+    {
+      "run": "L1 seed 11 (17 ticks)",
+      "n_couplings": 15,
+      "unique_solutions": 15,
+      "unique_problems": 15,
+      "hhi": 0.06666667,
+      "entropy": 3.906891,
+      "neff": 15.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L1 seed 22 (17 ticks)",
+      "n_couplings": 12,
+      "unique_solutions": 12,
+      "unique_problems": 12,
+      "hhi": 0.08333333,
+      "entropy": 3.584963,
+      "neff": 12.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L1 seed 33 (17 ticks)",
+      "n_couplings": 9,
+      "unique_solutions": 9,
+      "unique_problems": 9,
+      "hhi": 0.11111111,
+      "entropy": 3.169925,
+      "neff": 9.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model A ranked seed 11 (17 ticks)",
+      "n_couplings": 24,
+      "unique_solutions": 24,
+      "unique_problems": 24,
+      "hhi": 0.04166667,
+      "entropy": 4.584963,
+      "neff": 24.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model B ranked seed 11 (17 ticks)",
+      "n_couplings": 18,
+      "unique_solutions": 18,
+      "unique_problems": 18,
+      "hhi": 0.05555556,
+      "entropy": 4.169925,
+      "neff": 18.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model C ranked seed 11 (17 ticks)",
+      "n_couplings": 17,
+      "unique_solutions": 17,
+      "unique_problems": 17,
+      "hhi": 0.05882353,
+      "entropy": 4.087463,
+      "neff": 17.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model D ranked seed 11 (17 ticks)",
+      "n_couplings": 25,
+      "unique_solutions": 25,
+      "unique_problems": 25,
+      "hhi": 0.04,
+      "entropy": 4.643856,
+      "neff": 25.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model E ranked seed 11 (17 ticks)",
+      "n_couplings": 30,
+      "unique_solutions": 30,
+      "unique_problems": 30,
+      "hhi": 0.03333333,
+      "entropy": 4.906891,
+      "neff": 30.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model A ranked seed 22 (17 ticks)",
+      "n_couplings": 22,
+      "unique_solutions": 22,
+      "unique_problems": 22,
+      "hhi": 0.04545455,
+      "entropy": 4.459432,
+      "neff": 22.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model B ranked seed 22 (17 ticks)",
+      "n_couplings": 22,
+      "unique_solutions": 22,
+      "unique_problems": 22,
+      "hhi": 0.04545455,
+      "entropy": 4.459432,
+      "neff": 22.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model C ranked seed 22 (17 ticks)",
+      "n_couplings": 18,
+      "unique_solutions": 18,
+      "unique_problems": 18,
+      "hhi": 0.05555556,
+      "entropy": 4.169925,
+      "neff": 18.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model D ranked seed 22 (17 ticks)",
+      "n_couplings": 25,
+      "unique_solutions": 25,
+      "unique_problems": 25,
+      "hhi": 0.04,
+      "entropy": 4.643856,
+      "neff": 25.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model E ranked seed 22 (17 ticks)",
+      "n_couplings": 25,
+      "unique_solutions": 25,
+      "unique_problems": 25,
+      "hhi": 0.04,
+      "entropy": 4.643856,
+      "neff": 25.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model A ranked seed 33 (17 ticks)",
+      "n_couplings": 21,
+      "unique_solutions": 21,
+      "unique_problems": 21,
+      "hhi": 0.04761905,
+      "entropy": 4.392317,
+      "neff": 21.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model B ranked seed 33 (17 ticks)",
+      "n_couplings": 18,
+      "unique_solutions": 18,
+      "unique_problems": 18,
+      "hhi": 0.05555556,
+      "entropy": 4.169925,
+      "neff": 18.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model C ranked seed 33 (17 ticks)",
+      "n_couplings": 19,
+      "unique_solutions": 19,
+      "unique_problems": 19,
+      "hhi": 0.05263158,
+      "entropy": 4.247928,
+      "neff": 19.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model D ranked seed 33 (17 ticks)",
+      "n_couplings": 24,
+      "unique_solutions": 24,
+      "unique_problems": 24,
+      "hhi": 0.04166667,
+      "entropy": 4.584963,
+      "neff": 24.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L2 Model E ranked seed 33 (17 ticks)",
+      "n_couplings": 26,
+      "unique_solutions": 26,
+      "unique_problems": 26,
+      "hhi": 0.03846154,
+      "entropy": 4.70044,
+      "neff": 26.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.0
+    },
+    {
+      "run": "L3 Model A model selection seed 11",
+      "n_couplings": 89,
+      "unique_solutions": 89,
+      "unique_problems": 89,
+      "hhi": 0.01123596,
+      "entropy": 6.475733,
+      "neff": 89.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.853933
+    },
+    {
+      "run": "L3 Model B model selection seed 11",
+      "n_couplings": 90,
+      "unique_solutions": 90,
+      "unique_problems": 90,
+      "hhi": 0.01111111,
+      "entropy": 6.491853,
+      "neff": 90.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.822222
+    },
+    {
+      "run": "L3 Model C model selection seed 11",
+      "n_couplings": 90,
+      "unique_solutions": 90,
+      "unique_problems": 90,
+      "hhi": 0.01111111,
+      "entropy": 6.491853,
+      "neff": 90.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.877778
+    },
+    {
+      "run": "L3 Model D model selection seed 11",
+      "n_couplings": 90,
+      "unique_solutions": 90,
+      "unique_problems": 90,
+      "hhi": 0.01111111,
+      "entropy": 6.491853,
+      "neff": 90.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.888889
+    },
+    {
+      "run": "L3 Model E model selection seed 11",
+      "n_couplings": 89,
+      "unique_solutions": 89,
+      "unique_problems": 89,
+      "hhi": 0.01123596,
+      "entropy": 6.475733,
+      "neff": 89.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.842697
+    },
+    {
+      "run": "L3 Model A model selection seed 22",
+      "n_couplings": 89,
+      "unique_solutions": 89,
+      "unique_problems": 89,
+      "hhi": 0.01123596,
+      "entropy": 6.475733,
+      "neff": 89.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.853933
+    },
+    {
+      "run": "L3 Model B model selection seed 22",
+      "n_couplings": 90,
+      "unique_solutions": 90,
+      "unique_problems": 90,
+      "hhi": 0.01111111,
+      "entropy": 6.491853,
+      "neff": 90.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.877778
+    },
+    {
+      "run": "L3 Model C model selection seed 22",
+      "n_couplings": 90,
+      "unique_solutions": 90,
+      "unique_problems": 90,
+      "hhi": 0.01111111,
+      "entropy": 6.491853,
+      "neff": 90.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.844444
+    },
+    {
+      "run": "L3 Model D model selection seed 22",
+      "n_couplings": 88,
+      "unique_solutions": 88,
+      "unique_problems": 88,
+      "hhi": 0.01136364,
+      "entropy": 6.459432,
+      "neff": 88.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.897727
+    },
+    {
+      "run": "L3 Model E model selection seed 22",
+      "n_couplings": 89,
+      "unique_solutions": 89,
+      "unique_problems": 89,
+      "hhi": 0.01123596,
+      "entropy": 6.475733,
+      "neff": 89.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.876404
+    },
+    {
+      "run": "L3 Model A model selection seed 33",
+      "n_couplings": 89,
+      "unique_solutions": 89,
+      "unique_problems": 89,
+      "hhi": 0.01123596,
+      "entropy": 6.475733,
+      "neff": 89.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.853933
+    },
+    {
+      "run": "L3 Model B model selection seed 33",
+      "n_couplings": 90,
+      "unique_solutions": 90,
+      "unique_problems": 90,
+      "hhi": 0.01111111,
+      "entropy": 6.491853,
+      "neff": 90.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.855556
+    },
+    {
+      "run": "L3 Model C model selection seed 33",
+      "n_couplings": 90,
+      "unique_solutions": 90,
+      "unique_problems": 90,
+      "hhi": 0.01111111,
+      "entropy": 6.491853,
+      "neff": 90.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.9
+    },
+    {
+      "run": "L3 Model D model selection seed 33",
+      "n_couplings": 88,
+      "unique_solutions": 88,
+      "unique_problems": 88,
+      "hhi": 0.01136364,
+      "entropy": 6.459432,
+      "neff": 88.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.909091
+    },
+    {
+      "run": "L3 Model E model selection seed 33",
+      "n_couplings": 89,
+      "unique_solutions": 89,
+      "unique_problems": 89,
+      "hhi": 0.01123596,
+      "entropy": 6.475733,
+      "neff": 89.0,
+      "gini": 0.0,
+      "support": "accepted_couplings",
+      "frac_sim_below_0_60": 0.831461
+    }
+  ],
+  "threshold_sensitivity": [
+    {
+      "run": "L1 seed 11 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 30,
+      "pct_ceiling": 55.56,
+      "acceptance_rate": 0.081522,
+      "mean_sim": 0.595632,
+      "min_sim": 0.551303,
+      "max_sim": 0.660776,
+      "n_rejected": 338,
+      "n_evaluated": 368,
+      "actual_n_couplings": 15
+    },
+    {
+      "run": "L1 seed 11 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 15,
+      "pct_ceiling": 27.78,
+      "acceptance_rate": 0.030303,
+      "mean_sim": 0.630904,
+      "min_sim": 0.606023,
+      "max_sim": 0.682914,
+      "n_rejected": 480,
+      "n_evaluated": 495,
+      "actual_n_couplings": 15
+    },
+    {
+      "run": "L1 seed 11 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 4,
+      "pct_ceiling": 7.41,
+      "acceptance_rate": 0.008081,
+      "mean_sim": 0.661781,
+      "min_sim": 0.650736,
+      "max_sim": 0.682914,
+      "n_rejected": 491,
+      "n_evaluated": 495,
+      "actual_n_couplings": 15
+    },
+    {
+      "run": "L1 seed 22 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 28,
+      "pct_ceiling": 51.85,
+      "acceptance_rate": 0.070175,
+      "mean_sim": 0.583773,
+      "min_sim": 0.550098,
+      "max_sim": 0.647424,
+      "n_rejected": 371,
+      "n_evaluated": 399,
+      "actual_n_couplings": 12
+    },
+    {
+      "run": "L1 seed 22 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 12,
+      "pct_ceiling": 22.22,
+      "acceptance_rate": 0.023669,
+      "mean_sim": 0.623134,
+      "min_sim": 0.6011,
+      "max_sim": 0.665928,
+      "n_rejected": 495,
+      "n_evaluated": 507,
+      "actual_n_couplings": 12
+    },
+    {
+      "run": "L1 seed 22 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 1,
+      "pct_ceiling": 1.85,
+      "acceptance_rate": 0.001972,
+      "mean_sim": 0.665928,
+      "min_sim": 0.665928,
+      "max_sim": 0.665928,
+      "n_rejected": 506,
+      "n_evaluated": 507,
+      "actual_n_couplings": 12
+    },
+    {
+      "run": "L1 seed 33 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 29,
+      "pct_ceiling": 53.7,
+      "acceptance_rate": 0.079019,
+      "mean_sim": 0.579287,
+      "min_sim": 0.556054,
+      "max_sim": 0.664449,
+      "n_rejected": 338,
+      "n_evaluated": 367,
+      "actual_n_couplings": 9
+    },
+    {
+      "run": "L1 seed 33 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 9,
+      "pct_ceiling": 16.67,
+      "acceptance_rate": 0.017308,
+      "mean_sim": 0.626815,
+      "min_sim": 0.605048,
+      "max_sim": 0.664449,
+      "n_rejected": 511,
+      "n_evaluated": 520,
+      "actual_n_couplings": 9
+    },
+    {
+      "run": "L1 seed 33 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 2,
+      "pct_ceiling": 3.7,
+      "acceptance_rate": 0.003846,
+      "mean_sim": 0.660254,
+      "min_sim": 0.65606,
+      "max_sim": 0.664449,
+      "n_rejected": 518,
+      "n_evaluated": 520,
+      "actual_n_couplings": 9
+    },
+    {
+      "run": "L2 Model A ranked seed 11 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 38,
+      "pct_ceiling": 70.37,
+      "acceptance_rate": 0.170404,
+      "mean_sim": 0.593265,
+      "min_sim": 0.551183,
+      "max_sim": 0.718569,
+      "n_rejected": 185,
+      "n_evaluated": 223,
+      "actual_n_couplings": 24
+    },
+    {
+      "run": "L2 Model A ranked seed 11 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 24,
+      "pct_ceiling": 44.44,
+      "acceptance_rate": 0.053097,
+      "mean_sim": 0.635613,
+      "min_sim": 0.600751,
+      "max_sim": 0.718569,
+      "n_rejected": 428,
+      "n_evaluated": 452,
+      "actual_n_couplings": 24
+    },
+    {
+      "run": "L2 Model A ranked seed 11 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 8,
+      "pct_ceiling": 14.81,
+      "acceptance_rate": 0.017699,
+      "mean_sim": 0.675168,
+      "min_sim": 0.652037,
+      "max_sim": 0.718569,
+      "n_rejected": 444,
+      "n_evaluated": 452,
+      "actual_n_couplings": 24
+    },
+    {
+      "run": "L2 Model B ranked seed 11 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 28,
+      "pct_ceiling": 51.85,
+      "acceptance_rate": 0.141414,
+      "mean_sim": 0.592715,
+      "min_sim": 0.551183,
+      "max_sim": 0.672424,
+      "n_rejected": 170,
+      "n_evaluated": 198,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model B ranked seed 11 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 18,
+      "pct_ceiling": 33.33,
+      "acceptance_rate": 0.038544,
+      "mean_sim": 0.63294,
+      "min_sim": 0.600751,
+      "max_sim": 0.718569,
+      "n_rejected": 449,
+      "n_evaluated": 467,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model B ranked seed 11 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 4,
+      "pct_ceiling": 7.41,
+      "acceptance_rate": 0.008565,
+      "mean_sim": 0.688158,
+      "min_sim": 0.672424,
+      "max_sim": 0.718569,
+      "n_rejected": 463,
+      "n_evaluated": 467,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model C ranked seed 11 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 29,
+      "pct_ceiling": 53.7,
+      "acceptance_rate": 0.123932,
+      "mean_sim": 0.59205,
+      "min_sim": 0.550251,
+      "max_sim": 0.674806,
+      "n_rejected": 205,
+      "n_evaluated": 234,
+      "actual_n_couplings": 17
+    },
+    {
+      "run": "L2 Model C ranked seed 11 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 17,
+      "pct_ceiling": 31.48,
+      "acceptance_rate": 0.03617,
+      "mean_sim": 0.62885,
+      "min_sim": 0.600751,
+      "max_sim": 0.682914,
+      "n_rejected": 453,
+      "n_evaluated": 470,
+      "actual_n_couplings": 17
+    },
+    {
+      "run": "L2 Model C ranked seed 11 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 4,
+      "pct_ceiling": 7.41,
+      "acceptance_rate": 0.008511,
+      "mean_sim": 0.672553,
+      "min_sim": 0.660069,
+      "max_sim": 0.682914,
+      "n_rejected": 466,
+      "n_evaluated": 470,
+      "actual_n_couplings": 17
+    },
+    {
+      "run": "L2 Model D ranked seed 11 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 37,
+      "pct_ceiling": 68.52,
+      "acceptance_rate": 0.15812,
+      "mean_sim": 0.593036,
+      "min_sim": 0.552048,
+      "max_sim": 0.718569,
+      "n_rejected": 197,
+      "n_evaluated": 234,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model D ranked seed 11 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 25,
+      "pct_ceiling": 46.3,
+      "acceptance_rate": 0.055556,
+      "mean_sim": 0.638187,
+      "min_sim": 0.600909,
+      "max_sim": 0.718569,
+      "n_rejected": 425,
+      "n_evaluated": 450,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model D ranked seed 11 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 8,
+      "pct_ceiling": 14.81,
+      "acceptance_rate": 0.017778,
+      "mean_sim": 0.681206,
+      "min_sim": 0.652037,
+      "max_sim": 0.718569,
+      "n_rejected": 442,
+      "n_evaluated": 450,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model E ranked seed 11 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 39,
+      "pct_ceiling": 72.22,
+      "acceptance_rate": 0.217877,
+      "mean_sim": 0.592874,
+      "min_sim": 0.552445,
+      "max_sim": 0.678725,
+      "n_rejected": 140,
+      "n_evaluated": 179,
+      "actual_n_couplings": 30
+    },
+    {
+      "run": "L2 Model E ranked seed 11 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 30,
+      "pct_ceiling": 55.56,
+      "acceptance_rate": 0.072115,
+      "mean_sim": 0.631877,
+      "min_sim": 0.600751,
+      "max_sim": 0.718569,
+      "n_rejected": 386,
+      "n_evaluated": 416,
+      "actual_n_couplings": 30
+    },
+    {
+      "run": "L2 Model E ranked seed 11 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 8,
+      "pct_ceiling": 14.81,
+      "acceptance_rate": 0.019231,
+      "mean_sim": 0.680916,
+      "min_sim": 0.652037,
+      "max_sim": 0.718569,
+      "n_rejected": 408,
+      "n_evaluated": 416,
+      "actual_n_couplings": 30
+    },
+    {
+      "run": "L2 Model A ranked seed 22 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 35,
+      "pct_ceiling": 64.81,
+      "acceptance_rate": 0.165877,
+      "mean_sim": 0.59783,
+      "min_sim": 0.551183,
+      "max_sim": 0.728486,
+      "n_rejected": 176,
+      "n_evaluated": 211,
+      "actual_n_couplings": 22
+    },
+    {
+      "run": "L2 Model A ranked seed 22 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 22,
+      "pct_ceiling": 40.74,
+      "acceptance_rate": 0.04793,
+      "mean_sim": 0.641018,
+      "min_sim": 0.603038,
+      "max_sim": 0.728486,
+      "n_rejected": 437,
+      "n_evaluated": 459,
+      "actual_n_couplings": 22
+    },
+    {
+      "run": "L2 Model A ranked seed 22 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 7,
+      "pct_ceiling": 12.96,
+      "acceptance_rate": 0.015251,
+      "mean_sim": 0.684257,
+      "min_sim": 0.656485,
+      "max_sim": 0.728486,
+      "n_rejected": 452,
+      "n_evaluated": 459,
+      "actual_n_couplings": 22
+    },
+    {
+      "run": "L2 Model B ranked seed 22 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 29,
+      "pct_ceiling": 53.7,
+      "acceptance_rate": 0.159341,
+      "mean_sim": 0.593895,
+      "min_sim": 0.552005,
+      "max_sim": 0.682629,
+      "n_rejected": 153,
+      "n_evaluated": 182,
+      "actual_n_couplings": 22
+    },
+    {
+      "run": "L2 Model B ranked seed 22 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 22,
+      "pct_ceiling": 40.74,
+      "acceptance_rate": 0.048352,
+      "mean_sim": 0.629672,
+      "min_sim": 0.600191,
+      "max_sim": 0.708078,
+      "n_rejected": 433,
+      "n_evaluated": 455,
+      "actual_n_couplings": 22
+    },
+    {
+      "run": "L2 Model B ranked seed 22 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 3,
+      "pct_ceiling": 5.56,
+      "acceptance_rate": 0.006593,
+      "mean_sim": 0.683592,
+      "min_sim": 0.660069,
+      "max_sim": 0.708078,
+      "n_rejected": 452,
+      "n_evaluated": 455,
+      "actual_n_couplings": 22
+    },
+    {
+      "run": "L2 Model C ranked seed 22 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 31,
+      "pct_ceiling": 57.41,
+      "acceptance_rate": 0.106897,
+      "mean_sim": 0.590496,
+      "min_sim": 0.551698,
+      "max_sim": 0.660776,
+      "n_rejected": 259,
+      "n_evaluated": 290,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model C ranked seed 22 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 18,
+      "pct_ceiling": 33.33,
+      "acceptance_rate": 0.037895,
+      "mean_sim": 0.631213,
+      "min_sim": 0.605969,
+      "max_sim": 0.67485,
+      "n_rejected": 457,
+      "n_evaluated": 475,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model C ranked seed 22 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 3,
+      "pct_ceiling": 5.56,
+      "acceptance_rate": 0.006316,
+      "mean_sim": 0.666692,
+      "min_sim": 0.660776,
+      "max_sim": 0.67485,
+      "n_rejected": 472,
+      "n_evaluated": 475,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model D ranked seed 22 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 40,
+      "pct_ceiling": 74.07,
+      "acceptance_rate": 0.15625,
+      "mean_sim": 0.603222,
+      "min_sim": 0.550098,
+      "max_sim": 0.728486,
+      "n_rejected": 216,
+      "n_evaluated": 256,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model D ranked seed 22 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 25,
+      "pct_ceiling": 46.3,
+      "acceptance_rate": 0.055928,
+      "mean_sim": 0.63667,
+      "min_sim": 0.603038,
+      "max_sim": 0.728486,
+      "n_rejected": 422,
+      "n_evaluated": 447,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model D ranked seed 22 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 6,
+      "pct_ceiling": 11.11,
+      "acceptance_rate": 0.013423,
+      "mean_sim": 0.685323,
+      "min_sim": 0.660069,
+      "max_sim": 0.728486,
+      "n_rejected": 441,
+      "n_evaluated": 447,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model E ranked seed 22 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 38,
+      "pct_ceiling": 70.37,
+      "acceptance_rate": 0.202128,
+      "mean_sim": 0.593388,
+      "min_sim": 0.551183,
+      "max_sim": 0.728486,
+      "n_rejected": 150,
+      "n_evaluated": 188,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model E ranked seed 22 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 25,
+      "pct_ceiling": 46.3,
+      "acceptance_rate": 0.056433,
+      "mean_sim": 0.632209,
+      "min_sim": 0.600737,
+      "max_sim": 0.728486,
+      "n_rejected": 418,
+      "n_evaluated": 443,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model E ranked seed 22 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 4,
+      "pct_ceiling": 7.41,
+      "acceptance_rate": 0.009029,
+      "mean_sim": 0.692048,
+      "min_sim": 0.660069,
+      "max_sim": 0.728486,
+      "n_rejected": 439,
+      "n_evaluated": 443,
+      "actual_n_couplings": 25
+    },
+    {
+      "run": "L2 Model A ranked seed 33 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 35,
+      "pct_ceiling": 64.81,
+      "acceptance_rate": 0.144033,
+      "mean_sim": 0.591284,
+      "min_sim": 0.55104,
+      "max_sim": 0.718569,
+      "n_rejected": 208,
+      "n_evaluated": 243,
+      "actual_n_couplings": 21
+    },
+    {
+      "run": "L2 Model A ranked seed 33 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 21,
+      "pct_ceiling": 38.89,
+      "acceptance_rate": 0.044776,
+      "mean_sim": 0.63948,
+      "min_sim": 0.601238,
+      "max_sim": 0.718569,
+      "n_rejected": 448,
+      "n_evaluated": 469,
+      "actual_n_couplings": 21
+    },
+    {
+      "run": "L2 Model A ranked seed 33 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 8,
+      "pct_ceiling": 14.81,
+      "acceptance_rate": 0.017058,
+      "mean_sim": 0.68252,
+      "min_sim": 0.65606,
+      "max_sim": 0.718569,
+      "n_rejected": 461,
+      "n_evaluated": 469,
+      "actual_n_couplings": 21
+    },
+    {
+      "run": "L2 Model B ranked seed 33 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 29,
+      "pct_ceiling": 53.7,
+      "acceptance_rate": 0.110687,
+      "mean_sim": 0.593915,
+      "min_sim": 0.552426,
+      "max_sim": 0.718569,
+      "n_rejected": 233,
+      "n_evaluated": 262,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model B ranked seed 33 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 18,
+      "pct_ceiling": 33.33,
+      "acceptance_rate": 0.03719,
+      "mean_sim": 0.64345,
+      "min_sim": 0.600909,
+      "max_sim": 0.718569,
+      "n_rejected": 466,
+      "n_evaluated": 484,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model B ranked seed 33 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 7,
+      "pct_ceiling": 12.96,
+      "acceptance_rate": 0.014463,
+      "mean_sim": 0.6853,
+      "min_sim": 0.661213,
+      "max_sim": 0.718569,
+      "n_rejected": 477,
+      "n_evaluated": 484,
+      "actual_n_couplings": 18
+    },
+    {
+      "run": "L2 Model C ranked seed 33 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 34,
+      "pct_ceiling": 62.96,
+      "acceptance_rate": 0.130268,
+      "mean_sim": 0.593933,
+      "min_sim": 0.551437,
+      "max_sim": 0.718569,
+      "n_rejected": 227,
+      "n_evaluated": 261,
+      "actual_n_couplings": 19
+    },
+    {
+      "run": "L2 Model C ranked seed 33 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 19,
+      "pct_ceiling": 35.19,
+      "acceptance_rate": 0.040426,
+      "mean_sim": 0.636185,
+      "min_sim": 0.600909,
+      "max_sim": 0.718569,
+      "n_rejected": 451,
+      "n_evaluated": 470,
+      "actual_n_couplings": 19
+    },
+    {
+      "run": "L2 Model C ranked seed 33 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 7,
+      "pct_ceiling": 12.96,
+      "acceptance_rate": 0.014894,
+      "mean_sim": 0.677112,
+      "min_sim": 0.65606,
+      "max_sim": 0.718569,
+      "n_rejected": 463,
+      "n_evaluated": 470,
+      "actual_n_couplings": 19
+    },
+    {
+      "run": "L2 Model D ranked seed 33 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 38,
+      "pct_ceiling": 70.37,
+      "acceptance_rate": 0.15261,
+      "mean_sim": 0.59326,
+      "min_sim": 0.55104,
+      "max_sim": 0.718569,
+      "n_rejected": 211,
+      "n_evaluated": 249,
+      "actual_n_couplings": 24
+    },
+    {
+      "run": "L2 Model D ranked seed 33 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 24,
+      "pct_ceiling": 44.44,
+      "acceptance_rate": 0.05298,
+      "mean_sim": 0.632375,
+      "min_sim": 0.600909,
+      "max_sim": 0.718569,
+      "n_rejected": 429,
+      "n_evaluated": 453,
+      "actual_n_couplings": 24
+    },
+    {
+      "run": "L2 Model D ranked seed 33 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 6,
+      "pct_ceiling": 11.11,
+      "acceptance_rate": 0.013245,
+      "mean_sim": 0.677449,
+      "min_sim": 0.652037,
+      "max_sim": 0.718569,
+      "n_rejected": 447,
+      "n_evaluated": 453,
+      "actual_n_couplings": 24
+    },
+    {
+      "run": "L2 Model E ranked seed 33 (17 ticks)",
+      "threshold": 0.55,
+      "n_couplings": 40,
+      "pct_ceiling": 74.07,
+      "acceptance_rate": 0.199005,
+      "mean_sim": 0.595519,
+      "min_sim": 0.55104,
+      "max_sim": 0.718569,
+      "n_rejected": 161,
+      "n_evaluated": 201,
+      "actual_n_couplings": 26
+    },
+    {
+      "run": "L2 Model E ranked seed 33 (17 ticks)",
+      "threshold": 0.6,
+      "n_couplings": 26,
+      "pct_ceiling": 48.15,
+      "acceptance_rate": 0.056893,
+      "mean_sim": 0.6371,
+      "min_sim": 0.602185,
+      "max_sim": 0.718569,
+      "n_rejected": 431,
+      "n_evaluated": 457,
+      "actual_n_couplings": 26
+    },
+    {
+      "run": "L2 Model E ranked seed 33 (17 ticks)",
+      "threshold": 0.65,
+      "n_couplings": 7,
+      "pct_ceiling": 12.96,
+      "acceptance_rate": 0.015317,
+      "mean_sim": 0.683181,
+      "min_sim": 0.654344,
+      "max_sim": 0.718569,
+      "n_rejected": 450,
+      "n_evaluated": 457,
+      "actual_n_couplings": 26
+    }
+  ],
+  "ceiling": 54,
+  "D_experiment_status": [
+    {
+      "run": "L1 seed 11 (17 ticks)",
+      "layer": "L1",
+      "architecture": "L1_HumanProxy",
+      "model": null,
+      "condition": "HumanProxy",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer1_seed11.json"
+    },
+    {
+      "run": "L1 seed 22 (17 ticks)",
+      "layer": "L1",
+      "architecture": "L1_HumanProxy",
+      "model": null,
+      "condition": "HumanProxy",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer1_seed22.json"
+    },
+    {
+      "run": "L1 seed 33 (17 ticks)",
+      "layer": "L1",
+      "architecture": "L1_HumanProxy",
+      "model": null,
+      "condition": "HumanProxy",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer1_seed33.json"
+    },
+    {
+      "run": "L2 Model A ranked seed 11",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "A",
+      "condition": "ranked",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_1_lightly_aligned_ranked_seed11.json"
+    },
+    {
+      "run": "L2 Model A ranked seed 22",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "A",
+      "condition": "ranked",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_1_lightly_aligned_ranked_seed22.json"
+    },
+    {
+      "run": "L2 Model A ranked seed 33",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "A",
+      "condition": "ranked",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_1_lightly_aligned_ranked_seed33.json"
+    },
+    {
+      "run": "L3 Model A model selection seed 11",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "A",
+      "condition": "model selection",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_1_lightly_aligned_autonomous_seed11.json"
+    },
+    {
+      "run": "L3 Model A model selection seed 22",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "A",
+      "condition": "model selection",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_1_lightly_aligned_autonomous_seed22.json"
+    },
+    {
+      "run": "L3 Model A model selection seed 33",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "A",
+      "condition": "model selection",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_1_lightly_aligned_autonomous_seed33.json"
+    },
+    {
+      "run": "L2 Model B ranked seed 11",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "B",
+      "condition": "ranked",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_2_heavily_aligned_ranked_seed11.json"
+    },
+    {
+      "run": "L2 Model B ranked seed 22",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "B",
+      "condition": "ranked",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_2_heavily_aligned_ranked_seed22.json"
+    },
+    {
+      "run": "L2 Model B ranked seed 33",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "B",
+      "condition": "ranked",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_2_heavily_aligned_ranked_seed33.json"
+    },
+    {
+      "run": "L3 Model B model selection seed 11",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "B",
+      "condition": "model selection",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_2_heavily_aligned_autonomous_seed11.json"
+    },
+    {
+      "run": "L3 Model B model selection seed 22",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "B",
+      "condition": "model selection",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_2_heavily_aligned_autonomous_seed22.json"
+    },
+    {
+      "run": "L3 Model B model selection seed 33",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "B",
+      "condition": "model selection",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_2_heavily_aligned_autonomous_seed33.json"
+    },
+    {
+      "run": "L2 Model C ranked seed 11",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "C",
+      "condition": "ranked",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_3_nemotron_nano_4b_ranked_seed11.json"
+    },
+    {
+      "run": "L2 Model C ranked seed 22",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "C",
+      "condition": "ranked",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_3_nemotron_nano_4b_ranked_seed22.json"
+    },
+    {
+      "run": "L2 Model C ranked seed 33",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "C",
+      "condition": "ranked",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_3_nemotron_nano_4b_ranked_seed33.json"
+    },
+    {
+      "run": "L3 Model C model selection seed 11",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "C",
+      "condition": "model selection",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_3_nemotron_nano_4b_autonomous_seed11.json"
+    },
+    {
+      "run": "L3 Model C model selection seed 22",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "C",
+      "condition": "model selection",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_3_nemotron_nano_4b_autonomous_seed22.json"
+    },
+    {
+      "run": "L3 Model C model selection seed 33",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "C",
+      "condition": "model selection",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_3_nemotron_nano_4b_autonomous_seed33.json"
+    },
+    {
+      "run": "L2 Model D ranked seed 11",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "D",
+      "condition": "ranked",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_4_qwen25_7b_ranked_seed11.json"
+    },
+    {
+      "run": "L2 Model D ranked seed 22",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "D",
+      "condition": "ranked",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_4_qwen25_7b_ranked_seed22.json"
+    },
+    {
+      "run": "L2 Model D ranked seed 33",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "D",
+      "condition": "ranked",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_4_qwen25_7b_ranked_seed33.json"
+    },
+    {
+      "run": "L3 Model D model selection seed 11",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "D",
+      "condition": "model selection",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_4_qwen25_7b_autonomous_seed11.json"
+    },
+    {
+      "run": "L3 Model D model selection seed 22",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "D",
+      "condition": "model selection",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_4_qwen25_7b_autonomous_seed22.json"
+    },
+    {
+      "run": "L3 Model D model selection seed 33",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "D",
+      "condition": "model selection",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_4_qwen25_7b_autonomous_seed33.json"
+    },
+    {
+      "run": "L2 Model E ranked seed 11",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "E",
+      "condition": "ranked",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_5_gemma2_9b_ranked_seed11.json"
+    },
+    {
+      "run": "L2 Model E ranked seed 22",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "E",
+      "condition": "ranked",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_5_gemma2_9b_ranked_seed22.json"
+    },
+    {
+      "run": "L2 Model E ranked seed 33",
+      "layer": "L2",
+      "architecture": "L2_ranked",
+      "model": "E",
+      "condition": "ranked",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_5_gemma2_9b_ranked_seed33.json"
+    },
+    {
+      "run": "L3 Model E model selection seed 11",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "E",
+      "condition": "model selection",
+      "seed": 11,
+      "status": "complete",
+      "source_file": "layer2_tier_5_gemma2_9b_autonomous_seed11.json"
+    },
+    {
+      "run": "L3 Model E model selection seed 22",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "E",
+      "condition": "model selection",
+      "seed": 22,
+      "status": "complete",
+      "source_file": "layer2_tier_5_gemma2_9b_autonomous_seed22.json"
+    },
+    {
+      "run": "L3 Model E model selection seed 33",
+      "layer": "L3",
+      "architecture": "L3_model_selection",
+      "model": "E",
+      "condition": "model selection",
+      "seed": 33,
+      "status": "complete",
+      "source_file": "layer2_tier_5_gemma2_9b_autonomous_seed33.json"
+    }
+  ]
+}

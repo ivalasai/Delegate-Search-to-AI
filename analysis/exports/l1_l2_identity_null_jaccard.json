@@ -1,0 +1,274 @@
+{
+  "eligible_graphs": {
+    "11": {
+      "n_edges": 209,
+      "deg_min": 0,
+      "deg_mean": 2.322222,
+      "deg_max": 13,
+      "n_problems": 90,
+      "n_zero_degree": 31
+    },
+    "22": {
+      "n_edges": 209,
+      "deg_min": 0,
+      "deg_mean": 2.322222,
+      "deg_max": 13,
+      "n_problems": 90,
+      "n_zero_degree": 31
+    },
+    "33": {
+      "n_edges": 209,
+      "deg_min": 0,
+      "deg_mean": 2.322222,
+      "deg_max": 13,
+      "n_problems": 90,
+      "n_zero_degree": 31
+    }
+  },
+  "observed_jaccard": {
+    "L1": {
+      "11_vs_22": 0.0,
+      "11_vs_33": 0.0,
+      "22_vs_33": 0.0
+    },
+    "L2A": {
+      "11_vs_22": 0.121951,
+      "11_vs_33": 0.071429,
+      "22_vs_33": 0.131579
+    },
+    "L2B": {
+      "11_vs_22": 0.052632,
+      "11_vs_33": 0.058824,
+      "22_vs_33": 0.052632
+    },
+    "L2C": {
+      "11_vs_22": 0.029412,
+      "11_vs_33": 0.058824,
+      "22_vs_33": 0.121212
+    },
+    "L2D": {
+      "11_vs_22": 0.111111,
+      "11_vs_33": 0.166667,
+      "22_vs_33": 0.113636
+    },
+    "L2E": {
+      "11_vs_22": 0.057692,
+      "11_vs_33": 0.098039,
+      "22_vs_33": 0.159091
+    }
+  },
+  "null_model": {
+    "L1": {
+      "11_vs_22": {
+        "n_a": 15,
+        "n_b": 12,
+        "observed_jaccard": 0.0,
+        "null_mean": 0.071365,
+        "null_p5": 0.0,
+        "null_p95": 0.173913,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "11_vs_33": {
+        "n_a": 15,
+        "n_b": 9,
+        "observed_jaccard": 0.0,
+        "null_mean": 0.059521,
+        "null_p5": 0.0,
+        "null_p95": 0.142857,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "22_vs_33": {
+        "n_a": 12,
+        "n_b": 9,
+        "observed_jaccard": 0.0,
+        "null_mean": 0.05573,
+        "null_p5": 0.0,
+        "null_p95": 0.166667,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      }
+    },
+    "L2A": {
+      "11_vs_22": {
+        "n_a": 24,
+        "n_b": 22,
+        "observed_jaccard": 0.121951,
+        "null_mean": 0.128261,
+        "null_p5": 0.045455,
+        "null_p95": 0.210526,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "11_vs_33": {
+        "n_a": 24,
+        "n_b": 21,
+        "observed_jaccard": 0.071429,
+        "null_mean": 0.118453,
+        "null_p5": 0.046512,
+        "null_p95": 0.216216,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "22_vs_33": {
+        "n_a": 22,
+        "n_b": 21,
+        "observed_jaccard": 0.131579,
+        "null_mean": 0.113433,
+        "null_p5": 0.04878,
+        "null_p95": 0.194444,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      }
+    },
+    "L2B": {
+      "11_vs_22": {
+        "n_a": 18,
+        "n_b": 22,
+        "observed_jaccard": 0.052632,
+        "null_mean": 0.11,
+        "null_p5": 0.025641,
+        "null_p95": 0.212121,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "11_vs_33": {
+        "n_a": 18,
+        "n_b": 18,
+        "observed_jaccard": 0.058824,
+        "null_mean": 0.098434,
+        "null_p5": 0.028571,
+        "null_p95": 0.16129,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "22_vs_33": {
+        "n_a": 22,
+        "n_b": 18,
+        "observed_jaccard": 0.052632,
+        "null_mean": 0.105003,
+        "null_p5": 0.025641,
+        "null_p95": 0.176471,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      }
+    },
+    "L2C": {
+      "11_vs_22": {
+        "n_a": 17,
+        "n_b": 18,
+        "observed_jaccard": 0.029412,
+        "null_mean": 0.096239,
+        "null_p5": 0.029412,
+        "null_p95": 0.206897,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "11_vs_33": {
+        "n_a": 17,
+        "n_b": 19,
+        "observed_jaccard": 0.058824,
+        "null_mean": 0.095577,
+        "null_p5": 0.028571,
+        "null_p95": 0.16129,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "22_vs_33": {
+        "n_a": 18,
+        "n_b": 19,
+        "observed_jaccard": 0.121212,
+        "null_mean": 0.097247,
+        "null_p5": 0.027778,
+        "null_p95": 0.193548,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      }
+    },
+    "L2D": {
+      "11_vs_22": {
+        "n_a": 25,
+        "n_b": 25,
+        "observed_jaccard": 0.111111,
+        "null_mean": 0.142872,
+        "null_p5": 0.06383,
+        "null_p95": 0.219512,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "11_vs_33": {
+        "n_a": 25,
+        "n_b": 24,
+        "observed_jaccard": 0.166667,
+        "null_mean": 0.133409,
+        "null_p5": 0.065217,
+        "null_p95": 0.225,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "22_vs_33": {
+        "n_a": 25,
+        "n_b": 24,
+        "observed_jaccard": 0.113636,
+        "null_mean": 0.137773,
+        "null_p5": 0.065217,
+        "null_p95": 0.225,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      }
+    },
+    "L2E": {
+      "11_vs_22": {
+        "n_a": 30,
+        "n_b": 25,
+        "observed_jaccard": 0.057692,
+        "null_mean": 0.155366,
+        "null_p5": 0.078431,
+        "null_p95": 0.25,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "OUTSIDE_REFERENCE_INTERVAL"
+      },
+      "11_vs_33": {
+        "n_a": 30,
+        "n_b": 26,
+        "observed_jaccard": 0.098039,
+        "null_mean": 0.153849,
+        "null_p5": 0.076923,
+        "null_p95": 0.244444,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      },
+      "22_vs_33": {
+        "n_a": 25,
+        "n_b": 26,
+        "observed_jaccard": 0.159091,
+        "null_mean": 0.139932,
+        "null_p5": 0.0625,
+        "null_p95": 0.243902,
+        "n_successful_draws": 500,
+        "n_failed_draws": 0,
+        "verdict": "WITHIN_REFERENCE_INTERVAL (not an equivalence test)"
+      }
+    }
+  },
+  "n_mc": 500,
+  "method": "For each seed, construct eligible bipartite edges after solution-pool decoupling, origin exclusion, and cosine >= 0.60. For each observed pair of injective matching sizes, precompute 50 random greedy maximal matchings and sample the target size from that pool; compare 500 random Jaccards. All identities are canonical source solution IDs. Each side uses its own seed graph and pool. The existing pool algorithm retains the largest of 100 shuffled-edge greedy matchings for each pool entry; it is not uniform over feasible matchings. This static, size-conditioned reference does not preserve arrival schedules, energy, or model preferences and does not establish path dependence. Incomplete cells are excluded."
+}

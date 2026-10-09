@@ -1,0 +1,27 @@
+[
+  {
+    "id": "P001",
+    "text": "Small clinics need a reliable way to route temperature-sensitive medicine.",
+    "vector": [1.0, 0.0, 0.0]
+  },
+  {
+    "id": "P002",
+    "text": "Local retailers struggle to detect sudden changes in neighborhood demand.",
+    "vector": [0.0, 1.0, 0.0]
+  },
+  {
+    "id": "P003",
+    "text": "Community kitchens lose time coordinating volunteer schedules.",
+    "vector": [0.0, 0.0, 1.0]
+  },
+  {
+    "id": "P004",
+    "text": "A delivery cooperative needs a simple system for planning routes.",
+    "vector": [0.8, 0.6, 0.0]
+  },
+  {
+    "id": "P005",
+    "text": "A food bank needs to monitor cold-chain handling during distribution.",
+    "vector": [0.6, 0.0, 0.8]
+  }
+]

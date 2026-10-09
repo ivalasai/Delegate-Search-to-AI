@@ -1,0 +1,10 @@
+{
+  "model_id": "llama3.1:8b",
+  "family": "llama3.1",
+  "alignment_tier": "tier_2_heavily_aligned",
+  "version_pinned": "46e0c10c039e",
+  "inference_mode": "local_ollama",
+  "temperature": 0.2,
+  "max_new_tokens": 256,
+  "ollama_base_url": "http://localhost:11434"
+}

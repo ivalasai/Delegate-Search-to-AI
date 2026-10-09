@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "distributional_baseline.schema.json",
+  "title": "DistributionalBaseline",
+  "type": "object",
+  "required": [
+    "baseline_id",
+    "computed_at",
+    "streams",
+    "coupling_potential",
+    "notes"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "baseline_id": { "type": "string" },
+    "computed_at": { "type": "string" },
+    "streams": {
+      "type": "object",
+      "required": ["problems", "solutions", "participants"],
+      "additionalProperties": false,
+      "properties": {
+        "problems": { "$ref": "#/$defs/stream_stats" },
+        "solutions": { "$ref": "#/$defs/stream_stats" },
+        "participants": { "$ref": "#/$defs/participant_stats" }
+      }
+    },
+    "coupling_potential": {
+      "type": "object",
+      "required": ["possible_pairings", "expected_coupling_rate_under_anarchy"],
+      "additionalProperties": false,
+      "properties": {
+        "possible_pairings": { "type": "integer", "minimum": 0 },
+        "expected_coupling_rate_under_anarchy": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "notes": { "type": "string" }
+  },
+  "$defs": {
+    "stream_stats": {
+      "type": "object",
+      "required": [
+        "count",
+        "semantic_spread",
+        "semantic_coordinate_variance",
+        "tail_mass"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "count": { "type": "integer", "minimum": 0 },
+        "semantic_spread": { "type": "number", "minimum": 0 },
+        "semantic_coordinate_variance": { "type": "number", "minimum": 0 },
+        "tail_mass": { "type": "number", "minimum": 0, "maximum": 1 },
+        "energy_demand_variance": { "type": "number", "minimum": 0 },
+        "persistence_variance": { "type": "number", "minimum": 0 }
+      }
+    },
+    "participant_stats": {
+      "type": "object",
+      "required": ["count", "energy_budget_variance", "participation_style_entropy"],
+      "additionalProperties": false,
+      "properties": {
+        "count": { "type": "integer", "minimum": 0 },
+        "energy_budget_variance": { "type": "number", "minimum": 0 },
+        "participation_style_entropy": { "type": "number", "minimum": 0 }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "anarchic_seed.schema.json",
+  "title": "AnarchicSeed",
+  "type": "object",
+  "required": [
+    "simulation_envelope",
+    "problems",
+    "solutions",
+    "participants",
+    "choice_opportunities",
+    "events",
+    "distributional_baseline"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "simulation_envelope": { "$ref": "envelope.schema.json" },
+    "problems": {
+      "type": "array",
+      "items": { "$ref": "problem.schema.json" }
+    },
+    "solutions": {
+      "type": "array",
+      "items": { "$ref": "solution.schema.json" }
+    },
+    "participants": {
+      "type": "array",
+      "items": { "$ref": "participant.schema.json" }
+    },
+    "choice_opportunities": {
+      "type": "array",
+      "items": { "$ref": "choice_opportunity.schema.json" }
+    },
+    "events": {
+      "type": "array",
+      "items": { "$ref": "event.schema.json" }
+    },
+    "distributional_baseline": { "$ref": "distributional_baseline.schema.json" }
+  }
+}

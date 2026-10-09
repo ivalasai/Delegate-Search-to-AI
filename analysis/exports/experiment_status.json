@@ -1,0 +1,332 @@
+[
+  {
+    "run": "L1 seed 11 (17 ticks)",
+    "layer": "L1",
+    "architecture": "L1_HumanProxy",
+    "model": null,
+    "condition": "HumanProxy",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer1_seed11.json"
+  },
+  {
+    "run": "L1 seed 22 (17 ticks)",
+    "layer": "L1",
+    "architecture": "L1_HumanProxy",
+    "model": null,
+    "condition": "HumanProxy",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer1_seed22.json"
+  },
+  {
+    "run": "L1 seed 33 (17 ticks)",
+    "layer": "L1",
+    "architecture": "L1_HumanProxy",
+    "model": null,
+    "condition": "HumanProxy",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer1_seed33.json"
+  },
+  {
+    "run": "L2 Model A ranked seed 11",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "A",
+    "condition": "ranked",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_1_lightly_aligned_ranked_seed11.json"
+  },
+  {
+    "run": "L2 Model A ranked seed 22",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "A",
+    "condition": "ranked",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_1_lightly_aligned_ranked_seed22.json"
+  },
+  {
+    "run": "L2 Model A ranked seed 33",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "A",
+    "condition": "ranked",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_1_lightly_aligned_ranked_seed33.json"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "A",
+    "condition": "model selection",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_1_lightly_aligned_autonomous_seed11.json"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "A",
+    "condition": "model selection",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_1_lightly_aligned_autonomous_seed22.json"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "A",
+    "condition": "model selection",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_1_lightly_aligned_autonomous_seed33.json"
+  },
+  {
+    "run": "L2 Model B ranked seed 11",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "B",
+    "condition": "ranked",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_2_heavily_aligned_ranked_seed11.json"
+  },
+  {
+    "run": "L2 Model B ranked seed 22",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "B",
+    "condition": "ranked",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_2_heavily_aligned_ranked_seed22.json"
+  },
+  {
+    "run": "L2 Model B ranked seed 33",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "B",
+    "condition": "ranked",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_2_heavily_aligned_ranked_seed33.json"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "B",
+    "condition": "model selection",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_2_heavily_aligned_autonomous_seed11.json"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "B",
+    "condition": "model selection",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_2_heavily_aligned_autonomous_seed22.json"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "B",
+    "condition": "model selection",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_2_heavily_aligned_autonomous_seed33.json"
+  },
+  {
+    "run": "L2 Model C ranked seed 11",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "C",
+    "condition": "ranked",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_3_nemotron_nano_4b_ranked_seed11.json"
+  },
+  {
+    "run": "L2 Model C ranked seed 22",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "C",
+    "condition": "ranked",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_3_nemotron_nano_4b_ranked_seed22.json"
+  },
+  {
+    "run": "L2 Model C ranked seed 33",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "C",
+    "condition": "ranked",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_3_nemotron_nano_4b_ranked_seed33.json"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "C",
+    "condition": "model selection",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_3_nemotron_nano_4b_autonomous_seed11.json"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "C",
+    "condition": "model selection",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_3_nemotron_nano_4b_autonomous_seed22.json"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "C",
+    "condition": "model selection",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_3_nemotron_nano_4b_autonomous_seed33.json"
+  },
+  {
+    "run": "L2 Model D ranked seed 11",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "D",
+    "condition": "ranked",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_4_qwen25_7b_ranked_seed11.json"
+  },
+  {
+    "run": "L2 Model D ranked seed 22",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "D",
+    "condition": "ranked",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_4_qwen25_7b_ranked_seed22.json"
+  },
+  {
+    "run": "L2 Model D ranked seed 33",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "D",
+    "condition": "ranked",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_4_qwen25_7b_ranked_seed33.json"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "D",
+    "condition": "model selection",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_4_qwen25_7b_autonomous_seed11.json"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "D",
+    "condition": "model selection",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_4_qwen25_7b_autonomous_seed22.json"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "D",
+    "condition": "model selection",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_4_qwen25_7b_autonomous_seed33.json"
+  },
+  {
+    "run": "L2 Model E ranked seed 11",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "E",
+    "condition": "ranked",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_5_gemma2_9b_ranked_seed11.json"
+  },
+  {
+    "run": "L2 Model E ranked seed 22",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "E",
+    "condition": "ranked",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_5_gemma2_9b_ranked_seed22.json"
+  },
+  {
+    "run": "L2 Model E ranked seed 33",
+    "layer": "L2",
+    "architecture": "L2_ranked",
+    "model": "E",
+    "condition": "ranked",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_5_gemma2_9b_ranked_seed33.json"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "E",
+    "condition": "model selection",
+    "seed": 11,
+    "status": "complete",
+    "source_file": "layer2_tier_5_gemma2_9b_autonomous_seed11.json"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "E",
+    "condition": "model selection",
+    "seed": 22,
+    "status": "complete",
+    "source_file": "layer2_tier_5_gemma2_9b_autonomous_seed22.json"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "layer": "L3",
+    "architecture": "L3_model_selection",
+    "model": "E",
+    "condition": "model selection",
+    "seed": 33,
+    "status": "complete",
+    "source_file": "layer2_tier_5_gemma2_9b_autonomous_seed33.json"
+  }
+]

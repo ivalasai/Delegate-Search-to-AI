@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "solution.schema.json",
+  "title": "Solution",
+  "type": "object",
+  "required": [
+    "solution_id",
+    "arrival_tick",
+    "label",
+    "solution_type",
+    "persistence",
+    "coupling_readiness",
+    "lifecycle_state",
+    "semantic_position",
+    "origin"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "solution_id": { "type": "string" },
+    "arrival_tick": { "type": "integer", "minimum": 1 },
+    "label": { "type": "string", "minLength": 1 },
+    "solution_type": {
+      "type": "string",
+      "enum": ["technology", "practice", "rhetoric", "hybrid"]
+    },
+    "carrier_participant_id": { "type": ["string", "null"] },
+    "persistence": { "type": "number", "minimum": 0 },
+    "coupling_readiness": { "type": "number", "minimum": 0, "maximum": 1 },
+    "lifecycle_state": {
+      "type": "string",
+      "enum": ["floating", "attached", "orphaned", "retired"]
+    },
+    "semantic_position": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 8,
+      "items": { "type": "number" }
+    },
+    "origin": {
+      "type": "string",
+      "enum": ["internal", "imported", "recombinant"]
+    }
+  }
+}

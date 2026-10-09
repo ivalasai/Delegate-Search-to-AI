@@ -1,0 +1,9 @@
+{
+  "nomic-embed-text": {
+    "model_id": "nomic-embed-text",
+    "version_pinned": "0a109f422b47",
+    "inference_mode": "local_ollama",
+    "ollama_base_url": "http://localhost:11434",
+    "notes": "Stage-1 pinned local embedding model via Ollama."
+  }
+}

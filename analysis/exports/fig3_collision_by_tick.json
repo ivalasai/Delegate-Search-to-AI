@@ -1,0 +1,2432 @@
+[
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 0,
+    "n_modal_selects": 17,
+    "n_couplings": 7,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 1,
+    "n_modal_selects": 19,
+    "n_couplings": 7,
+    "n_collisions": 12
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 2,
+    "n_modal_selects": 21,
+    "n_couplings": 10,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 3,
+    "n_modal_selects": 24,
+    "n_couplings": 11,
+    "n_collisions": 13
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 4,
+    "n_modal_selects": 30,
+    "n_couplings": 10,
+    "n_collisions": 20
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 5,
+    "n_modal_selects": 30,
+    "n_couplings": 7,
+    "n_collisions": 23
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 6,
+    "n_modal_selects": 38,
+    "n_couplings": 12,
+    "n_collisions": 26
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 7,
+    "n_modal_selects": 26,
+    "n_couplings": 7,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 8,
+    "n_modal_selects": 19,
+    "n_couplings": 9,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 9,
+    "n_modal_selects": 10,
+    "n_couplings": 5,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 10,
+    "n_modal_selects": 5,
+    "n_couplings": 3,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 11,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 12,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 0,
+    "n_modal_selects": 17,
+    "n_couplings": 6,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 1,
+    "n_modal_selects": 21,
+    "n_couplings": 6,
+    "n_collisions": 15
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 2,
+    "n_modal_selects": 23,
+    "n_couplings": 9,
+    "n_collisions": 14
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 3,
+    "n_modal_selects": 28,
+    "n_couplings": 9,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 4,
+    "n_modal_selects": 35,
+    "n_couplings": 10,
+    "n_collisions": 25
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 5,
+    "n_modal_selects": 35,
+    "n_couplings": 5,
+    "n_collisions": 30
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 6,
+    "n_modal_selects": 45,
+    "n_couplings": 8,
+    "n_collisions": 37
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 7,
+    "n_modal_selects": 37,
+    "n_couplings": 5,
+    "n_collisions": 32
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 8,
+    "n_modal_selects": 32,
+    "n_couplings": 6,
+    "n_collisions": 26
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 9,
+    "n_modal_selects": 26,
+    "n_couplings": 7,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 10,
+    "n_modal_selects": 19,
+    "n_couplings": 8,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 11,
+    "n_modal_selects": 11,
+    "n_couplings": 5,
+    "n_collisions": 6
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 12,
+    "n_modal_selects": 6,
+    "n_couplings": 4,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 13,
+    "n_modal_selects": 2,
+    "n_couplings": 1,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 14,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 0,
+    "n_modal_selects": 17,
+    "n_couplings": 7,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 1,
+    "n_modal_selects": 20,
+    "n_couplings": 7,
+    "n_collisions": 13
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 2,
+    "n_modal_selects": 20,
+    "n_couplings": 8,
+    "n_collisions": 12
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 3,
+    "n_modal_selects": 24,
+    "n_couplings": 12,
+    "n_collisions": 12
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 4,
+    "n_modal_selects": 31,
+    "n_couplings": 10,
+    "n_collisions": 21
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 5,
+    "n_modal_selects": 31,
+    "n_couplings": 10,
+    "n_collisions": 21
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 6,
+    "n_modal_selects": 36,
+    "n_couplings": 12,
+    "n_collisions": 24
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 7,
+    "n_modal_selects": 24,
+    "n_couplings": 8,
+    "n_collisions": 16
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 8,
+    "n_modal_selects": 16,
+    "n_couplings": 4,
+    "n_collisions": 12
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 9,
+    "n_modal_selects": 12,
+    "n_couplings": 6,
+    "n_collisions": 6
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 10,
+    "n_modal_selects": 6,
+    "n_couplings": 3,
+    "n_collisions": 3
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 11,
+    "n_modal_selects": 3,
+    "n_couplings": 1,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 12,
+    "n_modal_selects": 2,
+    "n_couplings": 2,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 0,
+    "n_modal_selects": 17,
+    "n_couplings": 8,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 1,
+    "n_modal_selects": 19,
+    "n_couplings": 10,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 2,
+    "n_modal_selects": 17,
+    "n_couplings": 10,
+    "n_collisions": 7
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 3,
+    "n_modal_selects": 18,
+    "n_couplings": 9,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 4,
+    "n_modal_selects": 26,
+    "n_couplings": 14,
+    "n_collisions": 12
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 5,
+    "n_modal_selects": 24,
+    "n_couplings": 9,
+    "n_collisions": 15
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 6,
+    "n_modal_selects": 30,
+    "n_couplings": 13,
+    "n_collisions": 17
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 7,
+    "n_modal_selects": 17,
+    "n_couplings": 10,
+    "n_collisions": 7
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 8,
+    "n_modal_selects": 7,
+    "n_couplings": 2,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 9,
+    "n_modal_selects": 5,
+    "n_couplings": 3,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 10,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 11,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 12,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 0,
+    "n_modal_selects": 17,
+    "n_couplings": 4,
+    "n_collisions": 13
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 1,
+    "n_modal_selects": 23,
+    "n_couplings": 12,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 2,
+    "n_modal_selects": 19,
+    "n_couplings": 9,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 3,
+    "n_modal_selects": 24,
+    "n_couplings": 8,
+    "n_collisions": 16
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 4,
+    "n_modal_selects": 32,
+    "n_couplings": 12,
+    "n_collisions": 20
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 5,
+    "n_modal_selects": 30,
+    "n_couplings": 5,
+    "n_collisions": 25
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 6,
+    "n_modal_selects": 40,
+    "n_couplings": 17,
+    "n_collisions": 23
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 7,
+    "n_modal_selects": 23,
+    "n_couplings": 9,
+    "n_collisions": 14
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 8,
+    "n_modal_selects": 14,
+    "n_couplings": 4,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 9,
+    "n_modal_selects": 10,
+    "n_couplings": 3,
+    "n_collisions": 7
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 10,
+    "n_modal_selects": 7,
+    "n_couplings": 2,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 11,
+    "n_modal_selects": 4,
+    "n_couplings": 2,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 12,
+    "n_modal_selects": 3,
+    "n_couplings": 1,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 13,
+    "n_modal_selects": 2,
+    "n_couplings": 1,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 0,
+    "n_modal_selects": 11,
+    "n_couplings": 5,
+    "n_collisions": 6
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 1,
+    "n_modal_selects": 17,
+    "n_couplings": 10,
+    "n_collisions": 7
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 2,
+    "n_modal_selects": 24,
+    "n_couplings": 11,
+    "n_collisions": 13
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 3,
+    "n_modal_selects": 23,
+    "n_couplings": 10,
+    "n_collisions": 13
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 4,
+    "n_modal_selects": 32,
+    "n_couplings": 9,
+    "n_collisions": 23
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 5,
+    "n_modal_selects": 38,
+    "n_couplings": 11,
+    "n_collisions": 27
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 6,
+    "n_modal_selects": 34,
+    "n_couplings": 15,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 7,
+    "n_modal_selects": 18,
+    "n_couplings": 8,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 8,
+    "n_modal_selects": 11,
+    "n_couplings": 3,
+    "n_collisions": 8
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 9,
+    "n_modal_selects": 7,
+    "n_couplings": 2,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 10,
+    "n_modal_selects": 6,
+    "n_couplings": 2,
+    "n_collisions": 4
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 11,
+    "n_modal_selects": 4,
+    "n_couplings": 2,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 12,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 0,
+    "n_modal_selects": 11,
+    "n_couplings": 7,
+    "n_collisions": 4
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 1,
+    "n_modal_selects": 15,
+    "n_couplings": 6,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 2,
+    "n_modal_selects": 26,
+    "n_couplings": 7,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 3,
+    "n_modal_selects": 29,
+    "n_couplings": 9,
+    "n_collisions": 20
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 4,
+    "n_modal_selects": 41,
+    "n_couplings": 8,
+    "n_collisions": 33
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 5,
+    "n_modal_selects": 46,
+    "n_couplings": 11,
+    "n_collisions": 35
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 6,
+    "n_modal_selects": 42,
+    "n_couplings": 6,
+    "n_collisions": 36
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 7,
+    "n_modal_selects": 36,
+    "n_couplings": 6,
+    "n_collisions": 30
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 8,
+    "n_modal_selects": 30,
+    "n_couplings": 7,
+    "n_collisions": 23
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 9,
+    "n_modal_selects": 23,
+    "n_couplings": 9,
+    "n_collisions": 14
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 10,
+    "n_modal_selects": 14,
+    "n_couplings": 2,
+    "n_collisions": 12
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 11,
+    "n_modal_selects": 12,
+    "n_couplings": 4,
+    "n_collisions": 8
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 12,
+    "n_modal_selects": 8,
+    "n_couplings": 3,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 13,
+    "n_modal_selects": 5,
+    "n_couplings": 4,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 14,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 0,
+    "n_modal_selects": 11,
+    "n_couplings": 5,
+    "n_collisions": 6
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 1,
+    "n_modal_selects": 17,
+    "n_couplings": 6,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 2,
+    "n_modal_selects": 28,
+    "n_couplings": 11,
+    "n_collisions": 17
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 3,
+    "n_modal_selects": 27,
+    "n_couplings": 8,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 4,
+    "n_modal_selects": 40,
+    "n_couplings": 10,
+    "n_collisions": 30
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 5,
+    "n_modal_selects": 42,
+    "n_couplings": 15,
+    "n_collisions": 27
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 6,
+    "n_modal_selects": 35,
+    "n_couplings": 12,
+    "n_collisions": 23
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 7,
+    "n_modal_selects": 23,
+    "n_couplings": 7,
+    "n_collisions": 16
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 8,
+    "n_modal_selects": 16,
+    "n_couplings": 8,
+    "n_collisions": 8
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 9,
+    "n_modal_selects": 8,
+    "n_couplings": 4,
+    "n_collisions": 4
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 10,
+    "n_modal_selects": 4,
+    "n_couplings": 3,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 11,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 12,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 0,
+    "n_modal_selects": 11,
+    "n_couplings": 7,
+    "n_collisions": 4
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 1,
+    "n_modal_selects": 12,
+    "n_couplings": 7,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 2,
+    "n_modal_selects": 20,
+    "n_couplings": 12,
+    "n_collisions": 8
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 3,
+    "n_modal_selects": 22,
+    "n_couplings": 9,
+    "n_collisions": 13
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 4,
+    "n_modal_selects": 17,
+    "n_couplings": 10,
+    "n_collisions": 7
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 5,
+    "n_modal_selects": 37,
+    "n_couplings": 13,
+    "n_collisions": 24
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 6,
+    "n_modal_selects": 32,
+    "n_couplings": 13,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 7,
+    "n_modal_selects": 19,
+    "n_couplings": 9,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 8,
+    "n_modal_selects": 10,
+    "n_couplings": 4,
+    "n_collisions": 6
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 9,
+    "n_modal_selects": 6,
+    "n_couplings": 3,
+    "n_collisions": 3
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 10,
+    "n_modal_selects": 3,
+    "n_couplings": 1,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 11,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 12,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 0,
+    "n_modal_selects": 11,
+    "n_couplings": 5,
+    "n_collisions": 6
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 1,
+    "n_modal_selects": 17,
+    "n_couplings": 10,
+    "n_collisions": 7
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 2,
+    "n_modal_selects": 24,
+    "n_couplings": 14,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 3,
+    "n_modal_selects": 20,
+    "n_couplings": 10,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 4,
+    "n_modal_selects": 31,
+    "n_couplings": 14,
+    "n_collisions": 17
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 5,
+    "n_modal_selects": 30,
+    "n_couplings": 13,
+    "n_collisions": 17
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 6,
+    "n_modal_selects": 24,
+    "n_couplings": 7,
+    "n_collisions": 17
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 7,
+    "n_modal_selects": 17,
+    "n_couplings": 6,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 8,
+    "n_modal_selects": 11,
+    "n_couplings": 5,
+    "n_collisions": 6
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 9,
+    "n_modal_selects": 6,
+    "n_couplings": 1,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 10,
+    "n_modal_selects": 5,
+    "n_couplings": 2,
+    "n_collisions": 3
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 11,
+    "n_modal_selects": 3,
+    "n_couplings": 2,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 12,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 0,
+    "n_modal_selects": 15,
+    "n_couplings": 6,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 1,
+    "n_modal_selects": 17,
+    "n_couplings": 7,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 2,
+    "n_modal_selects": 27,
+    "n_couplings": 9,
+    "n_collisions": 18
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 3,
+    "n_modal_selects": 26,
+    "n_couplings": 13,
+    "n_collisions": 13
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 4,
+    "n_modal_selects": 27,
+    "n_couplings": 10,
+    "n_collisions": 17
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 5,
+    "n_modal_selects": 34,
+    "n_couplings": 10,
+    "n_collisions": 24
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 6,
+    "n_modal_selects": 33,
+    "n_couplings": 14,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 7,
+    "n_modal_selects": 20,
+    "n_couplings": 6,
+    "n_collisions": 14
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 8,
+    "n_modal_selects": 15,
+    "n_couplings": 7,
+    "n_collisions": 8
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 9,
+    "n_modal_selects": 8,
+    "n_couplings": 4,
+    "n_collisions": 4
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 10,
+    "n_modal_selects": 4,
+    "n_couplings": 3,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 11,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 12,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 0,
+    "n_modal_selects": 15,
+    "n_couplings": 5,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 1,
+    "n_modal_selects": 18,
+    "n_couplings": 7,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 2,
+    "n_modal_selects": 28,
+    "n_couplings": 8,
+    "n_collisions": 20
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 3,
+    "n_modal_selects": 29,
+    "n_couplings": 7,
+    "n_collisions": 22
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 4,
+    "n_modal_selects": 35,
+    "n_couplings": 14,
+    "n_collisions": 21
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 5,
+    "n_modal_selects": 38,
+    "n_couplings": 6,
+    "n_collisions": 32
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 6,
+    "n_modal_selects": 43,
+    "n_couplings": 11,
+    "n_collisions": 32
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 7,
+    "n_modal_selects": 32,
+    "n_couplings": 12,
+    "n_collisions": 20
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 8,
+    "n_modal_selects": 20,
+    "n_couplings": 9,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 9,
+    "n_modal_selects": 11,
+    "n_couplings": 6,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 10,
+    "n_modal_selects": 5,
+    "n_couplings": 2,
+    "n_collisions": 3
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 11,
+    "n_modal_selects": 3,
+    "n_couplings": 1,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 12,
+    "n_modal_selects": 2,
+    "n_couplings": 1,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 13,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 0,
+    "n_modal_selects": 15,
+    "n_couplings": 6,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 1,
+    "n_modal_selects": 16,
+    "n_couplings": 6,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 2,
+    "n_modal_selects": 28,
+    "n_couplings": 10,
+    "n_collisions": 18
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 3,
+    "n_modal_selects": 27,
+    "n_couplings": 11,
+    "n_collisions": 16
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 4,
+    "n_modal_selects": 29,
+    "n_couplings": 7,
+    "n_collisions": 22
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 5,
+    "n_modal_selects": 39,
+    "n_couplings": 10,
+    "n_collisions": 29
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 6,
+    "n_modal_selects": 40,
+    "n_couplings": 12,
+    "n_collisions": 28
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 7,
+    "n_modal_selects": 27,
+    "n_couplings": 10,
+    "n_collisions": 17
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 8,
+    "n_modal_selects": 17,
+    "n_couplings": 6,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 9,
+    "n_modal_selects": 12,
+    "n_couplings": 5,
+    "n_collisions": 7
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 10,
+    "n_modal_selects": 7,
+    "n_couplings": 4,
+    "n_collisions": 3
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 11,
+    "n_modal_selects": 3,
+    "n_couplings": 1,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 12,
+    "n_modal_selects": 2,
+    "n_couplings": 1,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 13,
+    "n_modal_selects": 1,
+    "n_couplings": 1,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 0,
+    "n_modal_selects": 15,
+    "n_couplings": 6,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 1,
+    "n_modal_selects": 17,
+    "n_couplings": 6,
+    "n_collisions": 11
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 2,
+    "n_modal_selects": 27,
+    "n_couplings": 9,
+    "n_collisions": 18
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 3,
+    "n_modal_selects": 26,
+    "n_couplings": 12,
+    "n_collisions": 14
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 4,
+    "n_modal_selects": 26,
+    "n_couplings": 10,
+    "n_collisions": 16
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 5,
+    "n_modal_selects": 34,
+    "n_couplings": 12,
+    "n_collisions": 22
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 6,
+    "n_modal_selects": 32,
+    "n_couplings": 16,
+    "n_collisions": 16
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 7,
+    "n_modal_selects": 18,
+    "n_couplings": 9,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 8,
+    "n_modal_selects": 10,
+    "n_couplings": 4,
+    "n_collisions": 6
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 9,
+    "n_modal_selects": 6,
+    "n_couplings": 2,
+    "n_collisions": 4
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 10,
+    "n_modal_selects": 3,
+    "n_couplings": 2,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 11,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 12,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 0,
+    "n_modal_selects": 15,
+    "n_couplings": 6,
+    "n_collisions": 9
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 1,
+    "n_modal_selects": 17,
+    "n_couplings": 5,
+    "n_collisions": 12
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 2,
+    "n_modal_selects": 29,
+    "n_couplings": 10,
+    "n_collisions": 19
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 3,
+    "n_modal_selects": 28,
+    "n_couplings": 13,
+    "n_collisions": 15
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 4,
+    "n_modal_selects": 28,
+    "n_couplings": 13,
+    "n_collisions": 15
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 5,
+    "n_modal_selects": 32,
+    "n_couplings": 7,
+    "n_collisions": 25
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 6,
+    "n_modal_selects": 36,
+    "n_couplings": 10,
+    "n_collisions": 26
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 7,
+    "n_modal_selects": 26,
+    "n_couplings": 11,
+    "n_collisions": 15
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 8,
+    "n_modal_selects": 15,
+    "n_couplings": 5,
+    "n_collisions": 10
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 9,
+    "n_modal_selects": 10,
+    "n_couplings": 5,
+    "n_collisions": 5
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 10,
+    "n_modal_selects": 5,
+    "n_couplings": 3,
+    "n_collisions": 2
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 11,
+    "n_modal_selects": 2,
+    "n_couplings": 1,
+    "n_collisions": 1
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 12,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 13,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 14,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 15,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 16,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "tick": 17,
+    "n_modal_selects": 0,
+    "n_couplings": 0,
+    "n_collisions": 0
+  }
+]

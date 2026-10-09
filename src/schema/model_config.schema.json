@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "model_config.schema.json",
+  "title": "ModelConfig",
+  "type": "object",
+  "required": [
+    "model_id",
+    "family",
+    "alignment_tier",
+    "version_pinned",
+    "inference_mode",
+    "temperature"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "model_id": {
+      "type": "string",
+      "description": "Exact Ollama model name"
+    },
+    "family": {
+      "type": "string",
+      "description": "Model family, e.g. mistral or llama3.1"
+    },
+    "alignment_tier": {
+      "description": "Legacy configuration field; labels descriptive model implementations, not an alignment scale.",
+      "type": "string",
+      "enum": [
+        "tier_1_lightly_aligned",
+        "tier_2_heavily_aligned",
+        "tier_3_nemotron_nano_4b",
+        "tier_4_qwen25_7b",
+        "tier_5_gemma2_9b"
+      ]
+    },
+    "version_pinned": {
+      "type": "string",
+      "description": "Pinned local Ollama digest or exact installed tag identifier"
+    },
+    "inference_mode": {
+      "type": "string",
+      "enum": ["local_ollama"]
+    },
+    "temperature": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 2
+    },
+    "max_new_tokens": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "ollama_base_url": {
+      "type": "string",
+      "description": "Local Ollama REST endpoint"
+    },
+    "num_ctx": {
+      "type": "integer",
+      "minimum": 512,
+      "description": "Ollama context window; set for models whose default ctx is too large for 16GB"
+    },
+    "think": {
+      "type": "boolean",
+      "description": "Ollama think/reasoning traces; false so RANK/SELECT appear in the response"
+    }
+  }
+}

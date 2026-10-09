@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "event.schema.json",
+  "title": "Event",
+  "type": "object",
+  "required": ["event_id", "event_type", "tick", "payload"],
+  "additionalProperties": false,
+  "properties": {
+    "event_id": { "type": "string" },
+    "event_type": {
+      "type": "string",
+      "enum": [
+        "stream_arrival",
+        "can_open",
+        "can_close",
+        "participant_enter",
+        "participant_exit",
+        "problem_dump",
+        "solution_dump",
+        "coupling_formed",
+        "decision_emitted",
+        "problem_fled",
+        "solution_orphaned"
+      ]
+    },
+    "tick": { "type": "integer", "minimum": 1 },
+    "payload": { "type": "object" }
+  }
+}

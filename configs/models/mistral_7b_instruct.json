@@ -1,0 +1,10 @@
+{
+  "model_id": "mistral:7b-instruct",
+  "family": "mistral",
+  "alignment_tier": "tier_1_lightly_aligned",
+  "version_pinned": "6577803aa9a0",
+  "inference_mode": "local_ollama",
+  "temperature": 0.2,
+  "max_new_tokens": 256,
+  "ollama_base_url": "http://localhost:11434"
+}

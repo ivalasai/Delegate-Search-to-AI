@@ -1,0 +1,1352 @@
+[
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 1,
+    "solution_id": "S033",
+    "frequency": 14,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 2,
+    "solution_id": "S059",
+    "frequency": 13,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 3,
+    "solution_id": "S055",
+    "frequency": 13,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 4,
+    "solution_id": "S027",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 5,
+    "solution_id": "S028",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 6,
+    "solution_id": "S010",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 7,
+    "solution_id": "S046",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 8,
+    "solution_id": "S022",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 9,
+    "solution_id": "S012",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 11",
+    "model": "A",
+    "seed": 11,
+    "rank": 10,
+    "solution_id": "S043",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 1,
+    "solution_id": "S043",
+    "frequency": 28,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 2,
+    "solution_id": "S001",
+    "frequency": 20,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 3,
+    "solution_id": "S028",
+    "frequency": 16,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 4,
+    "solution_id": "S049",
+    "frequency": 14,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 5,
+    "solution_id": "S037",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 6,
+    "solution_id": "S003",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 7,
+    "solution_id": "S007",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 8,
+    "solution_id": "S024",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 9,
+    "solution_id": "S033",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 11",
+    "model": "B",
+    "seed": 11,
+    "rank": 10,
+    "solution_id": "S055",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 1,
+    "solution_id": "S034",
+    "frequency": 13,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 2,
+    "solution_id": "S014",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 3,
+    "solution_id": "S043",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 4,
+    "solution_id": "S064",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 5,
+    "solution_id": "S024",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 6,
+    "solution_id": "S003",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 7,
+    "solution_id": "S036",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 8,
+    "solution_id": "S011",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 9,
+    "solution_id": "S072",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 11",
+    "model": "C",
+    "seed": 11,
+    "rank": 10,
+    "solution_id": "S001",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 1,
+    "solution_id": "S016",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 2,
+    "solution_id": "S024",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 3,
+    "solution_id": "S038",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 4,
+    "solution_id": "S058",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 5,
+    "solution_id": "S027",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 6,
+    "solution_id": "S056",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 7,
+    "solution_id": "S049",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 8,
+    "solution_id": "S012",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 9,
+    "solution_id": "S026",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 11",
+    "model": "D",
+    "seed": 11,
+    "rank": 10,
+    "solution_id": "S004",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 1,
+    "solution_id": "S036",
+    "frequency": 25,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 2,
+    "solution_id": "S029",
+    "frequency": 13,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 3,
+    "solution_id": "S034",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 4,
+    "solution_id": "S072",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 5,
+    "solution_id": "S074",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 6,
+    "solution_id": "S035",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 7,
+    "solution_id": "S043",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 8,
+    "solution_id": "S083",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 9,
+    "solution_id": "S037",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 11",
+    "model": "E",
+    "seed": 11,
+    "rank": 10,
+    "solution_id": "S033",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 1,
+    "solution_id": "S046",
+    "frequency": 13,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 2,
+    "solution_id": "S049",
+    "frequency": 13,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 3,
+    "solution_id": "S033",
+    "frequency": 12,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 4,
+    "solution_id": "S013",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 5,
+    "solution_id": "S011",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 6,
+    "solution_id": "S081",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 7,
+    "solution_id": "S051",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 8,
+    "solution_id": "S066",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 9,
+    "solution_id": "S006",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 22",
+    "model": "A",
+    "seed": 22,
+    "rank": 10,
+    "solution_id": "S085",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 1,
+    "solution_id": "S011",
+    "frequency": 32,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 2,
+    "solution_id": "S040",
+    "frequency": 19,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 3,
+    "solution_id": "S063",
+    "frequency": 18,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 4,
+    "solution_id": "S027",
+    "frequency": 14,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 5,
+    "solution_id": "S004",
+    "frequency": 12,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 6,
+    "solution_id": "S013",
+    "frequency": 12,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 7,
+    "solution_id": "S022",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 8,
+    "solution_id": "S045",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 9,
+    "solution_id": "S075",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 22",
+    "model": "B",
+    "seed": 22,
+    "rank": 10,
+    "solution_id": "S037",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 1,
+    "solution_id": "S035",
+    "frequency": 17,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 2,
+    "solution_id": "S006",
+    "frequency": 12,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 3,
+    "solution_id": "S029",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 4,
+    "solution_id": "S015",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 5,
+    "solution_id": "S037",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 6,
+    "solution_id": "S033",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 7,
+    "solution_id": "S011",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 8,
+    "solution_id": "S072",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 9,
+    "solution_id": "S043",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 22",
+    "model": "C",
+    "seed": 22,
+    "rank": 10,
+    "solution_id": "S023",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 1,
+    "solution_id": "S018",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 2,
+    "solution_id": "S037",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 3,
+    "solution_id": "S028",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 4,
+    "solution_id": "S011",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 5,
+    "solution_id": "S073",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 6,
+    "solution_id": "S020",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 7,
+    "solution_id": "S077",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 8,
+    "solution_id": "S025",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 9,
+    "solution_id": "S081",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 22",
+    "model": "D",
+    "seed": 22,
+    "rank": 10,
+    "solution_id": "S062",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 1,
+    "solution_id": "S052",
+    "frequency": 16,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 2,
+    "solution_id": "S040",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 3,
+    "solution_id": "S088",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 4,
+    "solution_id": "S062",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 5,
+    "solution_id": "S090",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 6,
+    "solution_id": "S061",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 7,
+    "solution_id": "S042",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 8,
+    "solution_id": "S046",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 9,
+    "solution_id": "S022",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 22",
+    "model": "E",
+    "seed": 22,
+    "rank": 10,
+    "solution_id": "S049",
+    "frequency": 4,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 1,
+    "solution_id": "S030",
+    "frequency": 12,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 2,
+    "solution_id": "S025",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 3,
+    "solution_id": "S041",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 4,
+    "solution_id": "S071",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 5,
+    "solution_id": "S028",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 6,
+    "solution_id": "S072",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 7,
+    "solution_id": "S017",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 8,
+    "solution_id": "S013",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 9,
+    "solution_id": "S082",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model A model selection seed 33",
+    "model": "A",
+    "seed": 33,
+    "rank": 10,
+    "solution_id": "S074",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 1,
+    "solution_id": "S030",
+    "frequency": 29,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 2,
+    "solution_id": "S012",
+    "frequency": 17,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 3,
+    "solution_id": "S014",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 4,
+    "solution_id": "S017",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 5,
+    "solution_id": "S023",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 6,
+    "solution_id": "S008",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 7,
+    "solution_id": "S018",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 8,
+    "solution_id": "S058",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 9,
+    "solution_id": "S013",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model B model selection seed 33",
+    "model": "B",
+    "seed": 33,
+    "rank": 10,
+    "solution_id": "S039",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 1,
+    "solution_id": "S030",
+    "frequency": 13,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 2,
+    "solution_id": "S034",
+    "frequency": 12,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 3,
+    "solution_id": "S012",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 4,
+    "solution_id": "S035",
+    "frequency": 10,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 5,
+    "solution_id": "S021",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 6,
+    "solution_id": "S051",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 7,
+    "solution_id": "S043",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 8,
+    "solution_id": "S017",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 9,
+    "solution_id": "S013",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model C model selection seed 33",
+    "model": "C",
+    "seed": 33,
+    "rank": 10,
+    "solution_id": "S014",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 1,
+    "solution_id": "S035",
+    "frequency": 15,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 2,
+    "solution_id": "S023",
+    "frequency": 11,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 3,
+    "solution_id": "S024",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 4,
+    "solution_id": "S017",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 5,
+    "solution_id": "S087",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 6,
+    "solution_id": "S079",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 7,
+    "solution_id": "S067",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 8,
+    "solution_id": "S068",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 9,
+    "solution_id": "S026",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model D model selection seed 33",
+    "model": "D",
+    "seed": 33,
+    "rank": 10,
+    "solution_id": "S054",
+    "frequency": 5,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 1,
+    "solution_id": "S030",
+    "frequency": 16,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 2,
+    "solution_id": "S019",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 3,
+    "solution_id": "S017",
+    "frequency": 9,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 4,
+    "solution_id": "S008",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 5,
+    "solution_id": "S027",
+    "frequency": 8,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 6,
+    "solution_id": "S079",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 7,
+    "solution_id": "S014",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 8,
+    "solution_id": "S035",
+    "frequency": 7,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 9,
+    "solution_id": "S013",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  },
+  {
+    "run": "L3 Model E model selection seed 33",
+    "model": "E",
+    "seed": 33,
+    "rank": 10,
+    "solution_id": "S012",
+    "frequency": 6,
+    "support": "modal_SELECT_incl_collisions"
+  }
+]

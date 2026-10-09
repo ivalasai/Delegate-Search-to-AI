@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "choice_opportunity.schema.json",
+  "title": "ChoiceOpportunity",
+  "type": "object",
+  "required": [
+    "can_id",
+    "can_type",
+    "label",
+    "active_window",
+    "capacity",
+    "current_contents",
+    "access_gate",
+    "overflow_state"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "can_id": { "type": "string" },
+    "can_type": {
+      "type": "string",
+      "enum": ["meeting", "budget_cycle", "hiring", "strategic_review", "ad_hoc"]
+    },
+    "label": { "type": "string", "minLength": 1 },
+    "active_window": {
+      "type": "object",
+      "required": ["start_tick", "end_tick"],
+      "additionalProperties": false,
+      "properties": {
+        "start_tick": { "type": "integer", "minimum": 1 },
+        "end_tick": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "capacity": { "type": "integer", "minimum": 1 },
+    "current_contents": {
+      "type": "object",
+      "required": ["problems", "solutions", "participants"],
+      "additionalProperties": false,
+      "properties": {
+        "problems": { "type": "array", "items": { "type": "string" } },
+        "solutions": { "type": "array", "items": { "type": "string" } },
+        "participants": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "access_gate": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "decision_outcome": { "type": ["object", "null"] },
+    "overflow_state": {
+      "type": "string",
+      "enum": ["empty", "accumulating", "saturated"]
+    }
+  }
+}

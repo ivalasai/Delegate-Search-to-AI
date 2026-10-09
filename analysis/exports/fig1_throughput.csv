@@ -1,0 +1,34 @@
+run,layer,architecture,model,seed,condition,metric_support,status,n_couplings,pct_ceiling
+L1 seed 11 (17 ticks),L1,L1_HumanProxy,,11,HumanProxy,gated_throughput,complete,15,27.78
+L1 seed 22 (17 ticks),L1,L1_HumanProxy,,22,HumanProxy,gated_throughput,complete,12,22.22
+L1 seed 33 (17 ticks),L1,L1_HumanProxy,,33,HumanProxy,gated_throughput,complete,9,16.67
+L2 Model A ranked seed 11 (17 ticks),L2,L2_ranked,A,11,ranked,gated_throughput,complete,24,44.44
+L2 Model B ranked seed 11 (17 ticks),L2,L2_ranked,B,11,ranked,gated_throughput,complete,18,33.33
+L2 Model C ranked seed 11 (17 ticks),L2,L2_ranked,C,11,ranked,gated_throughput,complete,17,31.48
+L2 Model D ranked seed 11 (17 ticks),L2,L2_ranked,D,11,ranked,gated_throughput,complete,25,46.3
+L2 Model E ranked seed 11 (17 ticks),L2,L2_ranked,E,11,ranked,gated_throughput,complete,30,55.56
+L2 Model A ranked seed 22 (17 ticks),L2,L2_ranked,A,22,ranked,gated_throughput,complete,22,40.74
+L2 Model B ranked seed 22 (17 ticks),L2,L2_ranked,B,22,ranked,gated_throughput,complete,22,40.74
+L2 Model C ranked seed 22 (17 ticks),L2,L2_ranked,C,22,ranked,gated_throughput,complete,18,33.33
+L2 Model D ranked seed 22 (17 ticks),L2,L2_ranked,D,22,ranked,gated_throughput,complete,25,46.3
+L2 Model E ranked seed 22 (17 ticks),L2,L2_ranked,E,22,ranked,gated_throughput,complete,25,46.3
+L2 Model A ranked seed 33 (17 ticks),L2,L2_ranked,A,33,ranked,gated_throughput,complete,21,38.89
+L2 Model B ranked seed 33 (17 ticks),L2,L2_ranked,B,33,ranked,gated_throughput,complete,18,33.33
+L2 Model C ranked seed 33 (17 ticks),L2,L2_ranked,C,33,ranked,gated_throughput,complete,19,35.19
+L2 Model D ranked seed 33 (17 ticks),L2,L2_ranked,D,33,ranked,gated_throughput,complete,24,44.44
+L2 Model E ranked seed 33 (17 ticks),L2,L2_ranked,E,33,ranked,gated_throughput,complete,26,48.15
+L3 Model A model selection seed 11,L3,L3_model_selection,A,11,model selection,raw_l3_couplings,complete,89,
+L3 Model B model selection seed 11,L3,L3_model_selection,B,11,model selection,raw_l3_couplings,complete,90,
+L3 Model C model selection seed 11,L3,L3_model_selection,C,11,model selection,raw_l3_couplings,complete,90,
+L3 Model D model selection seed 11,L3,L3_model_selection,D,11,model selection,raw_l3_couplings,complete,90,
+L3 Model E model selection seed 11,L3,L3_model_selection,E,11,model selection,raw_l3_couplings,complete,89,
+L3 Model A model selection seed 22,L3,L3_model_selection,A,22,model selection,raw_l3_couplings,complete,89,
+L3 Model B model selection seed 22,L3,L3_model_selection,B,22,model selection,raw_l3_couplings,complete,90,
+L3 Model C model selection seed 22,L3,L3_model_selection,C,22,model selection,raw_l3_couplings,complete,90,
+L3 Model D model selection seed 22,L3,L3_model_selection,D,22,model selection,raw_l3_couplings,complete,88,
+L3 Model E model selection seed 22,L3,L3_model_selection,E,22,model selection,raw_l3_couplings,complete,89,
+L3 Model A model selection seed 33,L3,L3_model_selection,A,33,model selection,raw_l3_couplings,complete,89,
+L3 Model B model selection seed 33,L3,L3_model_selection,B,33,model selection,raw_l3_couplings,complete,90,
+L3 Model C model selection seed 33,L3,L3_model_selection,C,33,model selection,raw_l3_couplings,complete,90,
+L3 Model D model selection seed 33,L3,L3_model_selection,D,33,model selection,raw_l3_couplings,complete,88,
+L3 Model E model selection seed 33,L3,L3_model_selection,E,33,model selection,raw_l3_couplings,complete,89,

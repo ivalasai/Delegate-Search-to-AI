@@ -1,0 +1,27 @@
+[
+  {
+    "id": "S001",
+    "text": "A temperature-monitoring route planner for medicine deliveries.",
+    "vector": [0.99, 0.1, 0.0]
+  },
+  {
+    "id": "S002",
+    "text": "A neighborhood demand-sensing dashboard for small retailers.",
+    "vector": [0.1, 0.99, 0.0]
+  },
+  {
+    "id": "S003",
+    "text": "A volunteer scheduling board for community kitchens.",
+    "vector": [0.0, 0.1, 0.99]
+  },
+  {
+    "id": "S004",
+    "text": "A cooperative delivery route-planning toolkit.",
+    "vector": [0.7, 0.7, 0.0]
+  },
+  {
+    "id": "S005",
+    "text": "A cold-chain telemetry log for food distribution.",
+    "vector": [0.6, 0.0, 0.8]
+  }
+]
