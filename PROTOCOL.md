@@ -2,7 +2,7 @@
 
 **Instrument:** Garbage Can Consensus
 **Status:** corrected evidence package; simulation protocol unchanged
-**Evidence commit SHA:** pending anonymous release commit
+**Evidence commit SHA:** `8ba7edd820fbe9fd14e541394ab613b6d60dc32a`
 
 ## Research question and scientific object
 

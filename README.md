@@ -47,4 +47,4 @@ Provide another corpus and embeddings in the documented schemas and use local Ol
 
 License: see LICENSE for code; evidence provenance and scope are documented separately. No claim is made to ownership of third-party source material or model weights.
 
-Corrected release commit: pending creation of the anonymous release history. No older development SHA is represented as this release.
+Frozen evidence commit: `8ba7edd820fbe9fd14e541394ab613b6d60dc32a`. A following metadata commit records this identifier; it does not change the evidence.
