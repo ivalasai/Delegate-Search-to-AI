@@ -9,3 +9,5 @@ The source is the SBIR public award-data service: https://www.sbir.gov/data-reso
 The correction compares source-solution identities using each seed's mapping. The reference samples greedy matchings with fixed random seeds and is not uniform over matchings. It does not model timing or energy. Low overlap alone is not evidence of path dependence. The isolated below-interval comparison is exploratory and unadjusted.
 
 Reference files in analysis/exports are untouched corrected exports. No scientific values were edited to make reproduction pass. The existing summary includes three historical 100-tick L1 records; they are not part of the 33-cell primary grid.
+
+Additional invariant checks and a local raw-log audit are documented in ../verification/REVIEW_FINDINGS.md. The raw-log audit found 11 discrepancies in one ranked cell; public analysis continues to use the original recorded decisions. These findings are not repaired by overwriting evidence.

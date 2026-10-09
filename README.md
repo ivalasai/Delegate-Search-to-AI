@@ -10,6 +10,10 @@ HumanProxy is a transparent computational proxy for boundedly rational organizat
 
 These architectures differ in selection, acceptance, and scheduling. They do not isolate the causal effect of AI autonomy. Cosine 0.60 is an operational gate, not organizational fitness. L3 is never reported as a percentage of the gated ceiling of 54.
 
+## Verification status
+
+Read [the verification review](verification/REVIEW_FINDINGS.md) before interpreting a passing run. Numerical invariants pass, but historical generation-seed control and A/B context remain unverified. A local raw-log audit found 11 parser discrepancies in Model A ranked seed 11. The public reconstruction uses recorded parsed decisions; it is not end-to-end raw-output replication.
+
 ## Run the toy
 
 Requires Python 3; no models or downloads:
@@ -33,7 +37,7 @@ python scripts/reproduce_stage1_evidence.py
 PYTHONPATH=src:scripts python -m unittest discover -s tests
 ```
 
-Expected: 18 frozen exports match; 17 tests pass. The wrapper invokes the existing analysis on frozen numerical records, writes to a temporary directory, and only then compares to the committed exports. CSV comparison is byte-exact; JSON comparison requires exact parsed values, ignoring object-key order and whitespace. No expected file supplies the calculated answers. A mismatch exits nonzero. The script never calls Ollama.
+Expected: 18 frozen exports match; 32 tests pass. The wrapper first verifies checksums, the fixed export inventory, and evidence invariants across 36 records (33 primary and 3 historical). It reports one invalid minority response that did not become a commitment. The wrapper invokes the existing analysis on frozen numerical records, writes to a temporary directory, and only then compares to the committed exports. CSV comparison is byte-exact; JSON comparison requires exact parsed values, ignoring object-key order and whitespace. No expected file supplies the calculated answers. A mismatch exits nonzero. The script never calls Ollama.
 
 The main evidence contains 33 complete cells (3 L1, 15 L2, 15 L3), including all six Model E cells. Three historical extended-horizon L1 records are included solely to reproduce the existing combined summary. L1 couplings range 9–15, L2 17–30, and L3 88–90. L3 collision counts range 92–249. Corrected identity comparisons place 17 of 18 L1/L2 comparisons within the existing reference intervals, not an equivalence result.
 

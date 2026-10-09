@@ -1,0 +1,158 @@
+{
+  "layer2_tier_1_lightly_aligned_autonomous_seed11.json": {
+    "raw_responses_checked": 747,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_1_lightly_aligned_autonomous_seed22.json": {
+    "raw_responses_checked": 708,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_1_lightly_aligned_autonomous_seed33.json": {
+    "raw_responses_checked": 711,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_1_lightly_aligned_ranked_seed11.json": {
+    "raw_responses_checked": 3057,
+    "parsed_output_mismatches": 11,
+    "first_mismatches": [
+      3,
+      4,
+      5,
+      81,
+      83
+    ]
+  },
+  "layer2_tier_1_lightly_aligned_ranked_seed22.json": {
+    "raw_responses_checked": 3180,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_1_lightly_aligned_ranked_seed33.json": {
+    "raw_responses_checked": 3201,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_2_heavily_aligned_autonomous_seed11.json": {
+    "raw_responses_checked": 1014,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_2_heavily_aligned_autonomous_seed22.json": {
+    "raw_responses_checked": 1017,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_2_heavily_aligned_autonomous_seed33.json": {
+    "raw_responses_checked": 840,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_2_heavily_aligned_ranked_seed11.json": {
+    "raw_responses_checked": 3294,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_2_heavily_aligned_ranked_seed22.json": {
+    "raw_responses_checked": 3135,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_2_heavily_aligned_ranked_seed33.json": {
+    "raw_responses_checked": 3297,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_3_nemotron_nano_4b_autonomous_seed11.json": {
+    "raw_responses_checked": 738,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_3_nemotron_nano_4b_autonomous_seed22.json": {
+    "raw_responses_checked": 759,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_3_nemotron_nano_4b_autonomous_seed33.json": {
+    "raw_responses_checked": 798,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_3_nemotron_nano_4b_ranked_seed11.json": {
+    "raw_responses_checked": 3315,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_3_nemotron_nano_4b_ranked_seed22.json": {
+    "raw_responses_checked": 3318,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_3_nemotron_nano_4b_ranked_seed33.json": {
+    "raw_responses_checked": 3258,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_4_qwen25_7b_autonomous_seed11.json": {
+    "raw_responses_checked": 564,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_4_qwen25_7b_autonomous_seed22.json": {
+    "raw_responses_checked": 693,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_4_qwen25_7b_autonomous_seed33.json": {
+    "raw_responses_checked": 723,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_4_qwen25_7b_ranked_seed11.json": {
+    "raw_responses_checked": 3036,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_4_qwen25_7b_ranked_seed22.json": {
+    "raw_responses_checked": 3072,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_4_qwen25_7b_ranked_seed33.json": {
+    "raw_responses_checked": 3060,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_5_gemma2_9b_autonomous_seed11.json": {
+    "raw_responses_checked": 759,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_5_gemma2_9b_autonomous_seed22.json": {
+    "raw_responses_checked": 615,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_5_gemma2_9b_autonomous_seed33.json": {
+    "raw_responses_checked": 747,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_5_gemma2_9b_ranked_seed11.json": {
+    "raw_responses_checked": 2802,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_5_gemma2_9b_ranked_seed22.json": {
+    "raw_responses_checked": 3033,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  },
+  "layer2_tier_5_gemma2_9b_ranked_seed33.json": {
+    "raw_responses_checked": 2967,
+    "parsed_output_mismatches": 0,
+    "first_mismatches": []
+  }
+}

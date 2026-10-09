@@ -1,0 +1,225 @@
+{
+  "layer1_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 15,
+    "collisions": null
+  },
+  "layer1_seed11_100tick_backup.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 9,
+    "collisions": null
+  },
+  "layer1_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 12,
+    "collisions": null
+  },
+  "layer1_seed22_100tick_backup.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 11,
+    "collisions": null
+  },
+  "layer1_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 9,
+    "collisions": null
+  },
+  "layer1_seed33_100tick_backup.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 9,
+    "collisions": null
+  },
+  "layer2_tier_1_lightly_aligned_autonomous_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 89,
+    "collisions": 151
+  },
+  "layer2_tier_1_lightly_aligned_autonomous_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 89,
+    "collisions": 137
+  },
+  "layer2_tier_1_lightly_aligned_autonomous_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 89,
+    "collisions": 137
+  },
+  "layer2_tier_1_lightly_aligned_ranked_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 24,
+    "collisions": null
+  },
+  "layer2_tier_1_lightly_aligned_ranked_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 22,
+    "collisions": null
+  },
+  "layer2_tier_1_lightly_aligned_ranked_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 21,
+    "collisions": null
+  },
+  "layer2_tier_2_heavily_aligned_autonomous_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 90,
+    "collisions": 248
+  },
+  "layer2_tier_2_heavily_aligned_autonomous_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 90,
+    "collisions": 249
+  },
+  "layer2_tier_2_heavily_aligned_autonomous_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 90,
+    "collisions": 190
+  },
+  "layer2_tier_2_heavily_aligned_ranked_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 18,
+    "collisions": null
+  },
+  "layer2_tier_2_heavily_aligned_ranked_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 22,
+    "collisions": null
+  },
+  "layer2_tier_2_heavily_aligned_ranked_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 18,
+    "collisions": null
+  },
+  "layer2_tier_3_nemotron_nano_4b_autonomous_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 90,
+    "collisions": 152
+  },
+  "layer2_tier_3_nemotron_nano_4b_autonomous_seed22.json": {
+    "failures": [],
+    "response_anomalies": [
+      {
+        "tick": 5,
+        "problem_id": "P083",
+        "solution_id": "S049",
+        "kind": "ineligible individual repeat"
+      }
+    ],
+    "couplings": 90,
+    "collisions": 162
+  },
+  "layer2_tier_3_nemotron_nano_4b_autonomous_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 90,
+    "collisions": 173
+  },
+  "layer2_tier_3_nemotron_nano_4b_ranked_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 17,
+    "collisions": null
+  },
+  "layer2_tier_3_nemotron_nano_4b_ranked_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 18,
+    "collisions": null
+  },
+  "layer2_tier_3_nemotron_nano_4b_ranked_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 19,
+    "collisions": null
+  },
+  "layer2_tier_4_qwen25_7b_autonomous_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 90,
+    "collisions": 92
+  },
+  "layer2_tier_4_qwen25_7b_autonomous_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 88,
+    "collisions": 101
+  },
+  "layer2_tier_4_qwen25_7b_autonomous_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 88,
+    "collisions": 126
+  },
+  "layer2_tier_4_qwen25_7b_ranked_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 25,
+    "collisions": null
+  },
+  "layer2_tier_4_qwen25_7b_ranked_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 25,
+    "collisions": null
+  },
+  "layer2_tier_4_qwen25_7b_ranked_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 24,
+    "collisions": null
+  },
+  "layer2_tier_5_gemma2_9b_autonomous_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 89,
+    "collisions": 159
+  },
+  "layer2_tier_5_gemma2_9b_autonomous_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 89,
+    "collisions": 110
+  },
+  "layer2_tier_5_gemma2_9b_autonomous_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 89,
+    "collisions": 154
+  },
+  "layer2_tier_5_gemma2_9b_ranked_seed11.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 30,
+    "collisions": null
+  },
+  "layer2_tier_5_gemma2_9b_ranked_seed22.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 25,
+    "collisions": null
+  },
+  "layer2_tier_5_gemma2_9b_ranked_seed33.json": {
+    "failures": [],
+    "response_anomalies": [],
+    "couplings": 26,
+    "collisions": null
+  }
+}

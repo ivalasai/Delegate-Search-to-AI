@@ -141,3 +141,7 @@ Organizational Choice,” *Journal of Artificial Societies and Social Simulation
 ## Corrected identity analysis
 
 Cross-seed identities use source-solution mappings. Seventeen of eighteen L1/L2 comparisons lie within the existing graph- and size-conditioned reference intervals; this is not an equivalence test. The reference is nonuniform and does not reproduce temporal search. L3 identity overlap is descriptive. L1 updates availability while processing shuffled problems; model conditions expose the tick-start pool and commit in sorted problem order. This scheduler distinction is part of the implemented architecture.
+
+## Verification supplement
+
+See verification/REVIEW_FINDINGS.md for independent invariants, historical seed/digest/context uncertainties and the Model A ranked seed-11 parser discrepancy. The numerical evidence is preserved. Existing locked A/B targets are regression checks. Threshold replay is conditional on recorded evaluations; percentages retain the original 54 reference ceiling, not an alternative-threshold ceiling.
